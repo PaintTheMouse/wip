@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brighton Visit"
+title:  "Sunny Days"
 date:   2016-07-03 00:10:45
 image: /images/IMG_0236_2.JPG
 topPosition: -50px;

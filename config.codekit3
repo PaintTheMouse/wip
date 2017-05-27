@@ -87,7 +87,7 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 1
 		},
-	"\/_posts\/2016-07-03-brighton_visit.md": {
+	"\/_posts\/2016-07-03-sunny-days.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -96,7 +96,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/_posts\/2016-07-03-brighton_visit.html",
+		"oAP": "\/_posts\/2016-07-03-sunny-days.html",
 		"oF": 1,
 		"oFM": 9,
 		"oS": 0,
@@ -352,6 +352,16 @@
 		"oAP": "\/_site\/2016\/11\/30\/a_portrait.html",
 		"oF": 0
 		},
+	"\/_site\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/_site\/data.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -364,11 +374,958 @@
 		"oAP": "\/_site\/equine.html",
 		"oF": 0
 		},
+	"\/_site\/images\/41.JPG": {
+		"ft": 16384,
+		"iS": 89889,
+		"oA": 0,
+		"oAP": "\/_site\/images\/41.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/banner.JPG": {
+		"ft": 16384,
+		"iS": 108404,
+		"oA": 0,
+		"oAP": "\/_site\/images\/banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0321.JPG": {
+		"ft": 16384,
+		"iS": 73250,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0321.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0321_thumb.JPG": {
+		"ft": 16384,
+		"iS": 73250,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0321_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0491.JPG": {
+		"ft": 16384,
+		"iS": 68137,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0491.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0491_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7027,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0491_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0492.JPG": {
+		"ft": 16384,
+		"iS": 100873,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0492.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0492_thumb.JPG": {
+		"ft": 16384,
+		"iS": 8775,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0492_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0494.JPG": {
+		"ft": 16384,
+		"iS": 100378,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0494.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0494_thumb.JPG": {
+		"ft": 16384,
+		"iS": 8338,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0494_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0495.JPG": {
+		"ft": 16384,
+		"iS": 70239,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0495.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0495_thumb.JPG": {
+		"ft": 16384,
+		"iS": 6762,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0495_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0496.JPG": {
+		"ft": 16384,
+		"iS": 86188,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0496.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0496_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7009,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0496_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0497.JPG": {
+		"ft": 16384,
+		"iS": 78750,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0497.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0497_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7030,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0497_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0508.JPG": {
+		"ft": 16384,
+		"iS": 87973,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0508.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/DSC_0511.JPG": {
+		"ft": 16384,
+		"iS": 91184,
+		"oA": 0,
+		"oAP": "\/_site\/images\/DSC_0511.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0491.JPG": {
+		"ft": 16384,
+		"iS": 68137,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0491.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0491_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7027,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0491_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0492.JPG": {
+		"ft": 16384,
+		"iS": 100873,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0492.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0492_thumb.JPG": {
+		"ft": 16384,
+		"iS": 8775,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0492_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0494.JPG": {
+		"ft": 16384,
+		"iS": 100378,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0494.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0494_thumb.JPG": {
+		"ft": 16384,
+		"iS": 8338,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0494_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0495.JPG": {
+		"ft": 16384,
+		"iS": 70239,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0495.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0495_thumb.JPG": {
+		"ft": 16384,
+		"iS": 6762,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0495_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0496.JPG": {
+		"ft": 16384,
+		"iS": 86188,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0496.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0496_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7009,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0496_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0497.JPG": {
+		"ft": 16384,
+		"iS": 78750,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0497.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/DSC_0497_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7030,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/DSC_0497_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/equine\/IMG_0197_2.JPG": {
+		"ft": 16384,
+		"iS": 119078,
+		"oA": 0,
+		"oAP": "\/_site\/images\/equine\/IMG_0197_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6263,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 9886,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 1606,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 1996,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 2821,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 3772,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 4578,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 4876,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6263,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 6826,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 8944,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 2310,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 2407,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 2821,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 2978,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 9387,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 9387,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/images\/ico.ico\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/_site\/images\/ico.ico\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1001,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1467,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 3772,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/images\/ico.ico\/favicon.ico",
+		"oF": 0
+		},
+	"\/_site\/images\/ico.ico\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/images\/ico.ico\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/images\/ico.ico\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6263,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 6721,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 21507,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/ico.ico\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 2725,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ico.ico\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/IMG_0197_2.JPG": {
+		"ft": 16384,
+		"iS": 119078,
+		"oA": 0,
+		"oAP": "\/_site\/images\/IMG_0197_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/IMG_0200_21.JPG": {
+		"ft": 16384,
+		"iS": 108404,
+		"oA": 0,
+		"oAP": "\/_site\/images\/IMG_0200_21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/IMG_0236_2.JPG": {
+		"ft": 16384,
+		"iS": 125489,
+		"oA": 0,
+		"oAP": "\/_site\/images\/IMG_0236_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/IMG_0242_2.JPG": {
+		"ft": 16384,
+		"iS": 126294,
+		"oA": 0,
+		"oAP": "\/_site\/images\/IMG_0242_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/logo\/mouse_black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/logo\/mouse_black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/logo\/mouse_white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/logo\/mouse_white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/logo\/test_2lines.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/logo\/test_2lines.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/logo\/text_1line.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/logo\/text_1line.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/logo\/text_1line_white.png": {
+		"ft": 32768,
+		"iS": 37228,
+		"oA": 0,
+		"oAP": "\/_site\/images\/logo\/text_1line_white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/images\/logo\/text_1line_white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/logo\/text_1line_white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/logo\/text_2lines_white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/images\/logo\/text_2lines_white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/images\/ray.JPG": {
+		"ft": 16384,
+		"iS": 95095,
+		"oA": 0,
+		"oAP": "\/_site\/images\/ray.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0491.JPG": {
+		"ft": 16384,
+		"iS": 68137,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0491.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0491_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7027,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0491_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0492.JPG": {
+		"ft": 16384,
+		"iS": 100873,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0492.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0492_thumb.JPG": {
+		"ft": 16384,
+		"iS": 8775,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0492_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0494.JPG": {
+		"ft": 16384,
+		"iS": 100378,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0494.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0494_thumb.JPG": {
+		"ft": 16384,
+		"iS": 8338,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0494_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0495.JPG": {
+		"ft": 16384,
+		"iS": 70239,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0495.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0495_thumb.JPG": {
+		"ft": 16384,
+		"iS": 6762,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0495_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0496.JPG": {
+		"ft": 16384,
+		"iS": 86188,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0496.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0496_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7009,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0496_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0497.JPG": {
+		"ft": 16384,
+		"iS": 78750,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0497.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0497_thumb.JPG": {
+		"ft": 16384,
+		"iS": 7030,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0497_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0508.JPG": {
+		"ft": 16384,
+		"iS": 87973,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0508.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/DSC_0508_thumb.JPG": {
+		"ft": 16384,
+		"iS": 87973,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/DSC_0508_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/IMG_0236_2.JPG": {
+		"ft": 16384,
+		"iS": 125489,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/IMG_0236_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/sold\/IMG_0236_2_thumb.JPG": {
+		"ft": 16384,
+		"iS": 125489,
+		"oA": 0,
+		"oAP": "\/_site\/images\/sold\/IMG_0236_2_thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/water\/DSC_0508.JPG": {
+		"ft": 16384,
+		"iS": 87973,
+		"oA": 0,
+		"oAP": "\/_site\/images\/water\/DSC_0508.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/water\/DSC_0511.JPG": {
+		"ft": 16384,
+		"iS": 91184,
+		"oA": 0,
+		"oAP": "\/_site\/images\/water\/DSC_0511.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/water\/IMG_0200_21.JPG": {
+		"ft": 16384,
+		"iS": 108404,
+		"oA": 0,
+		"oAP": "\/_site\/images\/water\/IMG_0200_21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/water\/IMG_0236_2.JPG": {
+		"ft": 16384,
+		"iS": 125489,
+		"oA": 0,
+		"oAP": "\/_site\/images\/water\/IMG_0236_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/images\/water\/IMG_0242_2.JPG": {
+		"ft": 16384,
+		"iS": 126294,
+		"oA": 0,
+		"oAP": "\/_site\/images\/water\/IMG_0242_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
 		"oF": 0
+		},
+	"\/_site\/js\/material-photo-gallery.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/js\/material-photo-gallery.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/_site\/sold.html": {
 		"ft": 8192,
