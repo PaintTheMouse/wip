@@ -1,9 +1,9 @@
 @import "bourbon";
 @import "neat";
-@import "normalize";
-@import "bitters/base";
-@import "material-photo-gallery";
-@import "sidebar";
+@import "_scss/normalize";
+@import "_scss/bitters/base";
+@import "_scss/material-photo-gallery";
+@import "_scss/sidebar";
 
 $dark-gray: #222222;
 $sidebar-text-gray: #d3d3d3;
@@ -36,7 +36,7 @@ section {
     }
 }
 #banner {
-    background-image: url('../images/banner.jpg');
+    background-image: url('/images/banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     // background-attachment: fixed;

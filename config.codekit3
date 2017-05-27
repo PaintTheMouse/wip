@@ -315,19 +315,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/main.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/main.css",
-		"oF": 2,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/_scss\/material-photo-gallery.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1368,6 +1355,19 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/sold.html": {
 		"ft": 8192,

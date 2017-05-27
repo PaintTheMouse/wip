@@ -1007,7 +1007,7 @@ section {
     font-weight: 200; }
 
 #banner {
-  background-image: url("../images/banner.jpg");
+  background-image: url("/images/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
