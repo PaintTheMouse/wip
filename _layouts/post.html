@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="container">
+    <h1 class="post-heading-title">{{ page.title }}</h1>
+    <h4 class="post-heading-date">{{ page.date | date: "%a %b %d %Y" }}</h4>
+</div>
+
+<div class="parallax" style="background-image: url('{{page.image}}')">
+    <!--<div class="container"><h1>{{ page.title }}</h1></div>-->
+</div>
+
+<section>
+    <div class="container">
+        <div class="post-column">
+            {{content}}
+        </div>
+    </div>
+</section>
+
+{% if page.previous.url %}
+<div class="post-next" style="background-image: url('{{ page.previous.image }}')">
+    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}">
+                <h2>Next post:</h2>
+              <h1>{{page.previous.title}}</h1>
+    </a>
+</div>
+{% endif %}

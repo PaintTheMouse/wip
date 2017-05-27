@@ -1,0 +1,19 @@
+# url: "https://mysite.github.io" # the base hostname & protocol for your site
+baseurl: "/paintthemouse.com/"                     # the subpath of your site, e.g. /blog/
+baseurl_images: "/paintthemouse.com/images/"
+#...
+title: Paint The Mouse
+sold_image: /images/DSC_0321.JPG
+equine_image: /images/DSC_0495.JPG
+water_image: /images/DSC_0511.JPG
+author:
+  name:           	 Ray Murphy
+# disqus_shortname: 'your-shortname' # ignore this if not using Disqus
+# keep_files: []
+exclude: ["_app",
+          "Gemfile",
+          "Gemfile.lock",
+          "config.codekit3"] # Don't forget that Jekyll automatically
+                          # excludes files with a dot prefix
+compress_html:
+  blanklines: true
