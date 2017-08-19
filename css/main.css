@@ -1018,7 +1018,7 @@ section {
     font-weight: 200; }
 
 #banner {
-  background-image: url("/ptm-images/water/water-7.JPG");
+  background-image: url("/ptm-images/water/water-7.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -1092,7 +1092,7 @@ section {
       font-size: 0.8em; }
 
 .about-image {
-  background-image: url("/images/ray.JPG");
+  background-image: url("/images/ray.jpg");
   background-repeat: no-repeat;
   background-position: 10% 60%;
   -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
