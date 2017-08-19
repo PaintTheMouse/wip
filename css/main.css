@@ -1121,6 +1121,7 @@ section {
 
 .portfolio-card {
   position: relative;
+  margin-bottom: 1rem;
   padding-top: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1129,6 +1130,8 @@ section {
   width: calc(100% - 40px);
   float: left;
   margin-left: 20px; }
+  .portfolio-card:last-child {
+    margin-bottom: 0; }
   .portfolio-card:hover {
     -webkit-box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
             box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2); }
