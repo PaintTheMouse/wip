@@ -2165,16 +2165,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/ray.JPG": {
-		"ft": 16384,
-		"iS": 95095,
-		"oA": 2,
-		"oAP": "\/images\/ray.jpg",
-		"oF": 3,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -2992,6 +2982,16 @@
 		"oA": 0,
 		"oAP": "\/ptm-images\/portrait\/portrait-7.jpg",
 		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/ptm-images\/ray.jpg": {
+		"ft": 16384,
+		"iS": 95095,
+		"oA": 2,
+		"oAP": "\/images\/ray.jpg",
+		"oF": 3,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
