@@ -2,7 +2,7 @@
 layout: post
 title:  "Sunny Days"
 date:   2016-07-03 00:10:45
-image: /ptm-images/water/water-1.JPG
+image: /ptm-images/water/water-1.jpg
 topPosition: -50px;
 tags: brighton deckchairs
 ---

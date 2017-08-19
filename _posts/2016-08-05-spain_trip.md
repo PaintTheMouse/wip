@@ -2,7 +2,7 @@
 layout: post
 title:  "Exhibition in Spain"
 date:   2016-08-05 00:10:45
-image: /ptm-images/portrait/portrait-7.JPG
+image: /ptm-images/portrait/portrait-7.jpg
 tags: spain
 ---
 Stuff about Spain Exhibition.
