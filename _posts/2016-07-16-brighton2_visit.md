@@ -2,7 +2,7 @@
 layout: post
 title:  "Brighton Visit 2"
 date:   2016-07-16 00:10:45
-image: /images/IMG_0242_2.JPG
+image: /ptm-images/water/water-3.JPG
 topPosition: -50px;
 tags: brighton deckchairs
 ---

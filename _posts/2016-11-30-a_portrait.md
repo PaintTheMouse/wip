@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Portrait Sitting"
-image: /images/41.JPG
+image: /ptm-images/portrait/portrait-1.JPG
 date:   2016-11-30 00:10:45
 tags: portrait
 ---
