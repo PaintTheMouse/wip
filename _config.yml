@@ -3,12 +3,12 @@ baseurl: ""                     # the subpath of your site, e.g. /blog/
 baseurl_images: "/ptm-images/"
 #...
 title: Paint The Mouse
-banner_image: /ptm-images/water/water-7.JPG
-sold_image: /ptm-images/sold/sold-0.JPG
-portrait_image: /ptm-images/portrait/portrait-7.JPG
-equine_image: /ptm-images/equine/equine-0.JPG
-water_image: /ptm-images/water/water-0.JPG
-landscape_image: /ptm-images/landscape/landscape-0.JPG
+banner_image: /ptm-images/water/water-7.jpg
+sold_image: /ptm-images/sold/sold-0.jpg
+portrait_image: /ptm-images/portrait/portrait-7.jpg
+equine_image: /ptm-images/equine/equine-0.jpg
+water_image: /ptm-images/water/water-0.jpg
+landscape_image: /ptm-images/landscape/landscape-0.jpg
 author:
   name:           	 Ray Murphy
 # disqus_shortname: 'your-shortname' # ignore this if not using Disqus
