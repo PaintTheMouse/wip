@@ -580,7 +580,7 @@ hr {
 \*------------------------------------*/
 .m-p-g {
   max-width: 860px;
-  margin: 0 auto; }
+  margin: 0 auto 2em auto; }
   .m-p-g__thumbs-img {
     margin: 0;
     float: left;
@@ -1018,7 +1018,6 @@ section {
     font-weight: 200; }
 
 #banner {
-  background-image: url("/ptm-images/water/water-7.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -1207,19 +1206,6 @@ blockquote.largeQuote a {
     background-attachment: scroll; }
   .container {
     max-width: 90%; } }
-
-.post-column {
-  width: calc(100% - 40px);
-  float: left;
-  margin-left: 20px;
-  margin: 2em 0; }
-  @media (min-width: 768px) {
-    .post-column {
-      width: calc(83.3333333333% - 36.6666666667px);
-      float: left;
-      margin-left: 20px;
-      left: calc(8.3333333333% - 21.6666666667px + 20px);
-      position: relative; } }
 
 /**** Footer ****/
 .footer {

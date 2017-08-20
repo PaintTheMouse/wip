@@ -36,7 +36,7 @@ section {
     }
 }
 #banner {
-    background-image: url('/ptm-images/water/water-7.jpg');
+    // background-image: url('/ptm-images/water/water-7.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     // background-attachment: fixed;
@@ -267,13 +267,13 @@ blockquote.largeQuote a {
     
 }
 .post-column {
-    @include grid-column(12);
+    // @include grid-column(12);
 
-    @media (min-width: 768px) {
-        @include grid-column(10);
-        @include grid-shift(1);
-    }
-    margin: 2em 0;
+    // @media (min-width: 768px) {
+    //     @include grid-column(10);
+    //     @include grid-shift(1);
+    // }
+    // margin: 2em 0;
 }
 
 /**** Footer ****/

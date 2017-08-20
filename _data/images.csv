@@ -1,53 +1,59 @@
-title,sold,equine,water,portrait,landscape,image,image-thumb
+title,sold,equine,water,portrait,landscape,misc,image,image-thumb
 # Equine
-title001,n,y,n,n,n,/ptm-images/equine/equine-0.jpg,/ptm-images/equine/equine-0.jpg
-title002,n,y,n,n,n,/ptm-images/equine/equine-1.jpg,/ptm-images/equine/equine-1.jpg
-title003,n,y,n,n,n,/ptm-images/equine/equine-2.jpg,/ptm-images/equine/equine-2.jpg
-title004,n,y,n,n,n,/ptm-images/equine/equine-3.jpg,/ptm-images/equine/equine-3.jpg
-title005,n,y,n,n,n,/ptm-images/equine/equine-4.jpg,/ptm-images/equine/equine-4.jpg
-title006,n,y,n,n,n,/ptm-images/equine/equine-5.jpg,/ptm-images/equine/equine-5.jpg
-title007,n,y,n,n,n,/ptm-images/equine/equine-6.jpg,/ptm-images/equine/equine-6.jpg
+title001,n,y,n,n,n,n,/ptm-images/equine/equine-0.jpg,/ptm-images/equine/equine-0.jpg
+title002,n,y,n,n,n,n,/ptm-images/equine/equine-1.jpg,/ptm-images/equine/equine-1.jpg
+title003,n,y,n,n,n,n,/ptm-images/equine/equine-2.jpg,/ptm-images/equine/equine-2.jpg
+title004,n,y,n,n,n,n,/ptm-images/equine/equine-3.jpg,/ptm-images/equine/equine-3.jpg
+title005,n,y,n,n,n,n,/ptm-images/equine/equine-4.jpg,/ptm-images/equine/equine-4.jpg
+title006,n,y,n,n,n,n,/ptm-images/equine/equine-5.jpg,/ptm-images/equine/equine-5.jpg
+title007,n,y,n,n,n,n,/ptm-images/equine/equine-6.jpg,/ptm-images/equine/equine-6.jpg
 
 # Water
-title001,n,n,y,n,n,/ptm-images/water/water-0.jpg,/ptm-images/water/water-0.jpg
-title002,n,n,y,n,n,/ptm-images/water/water-1.jpg,/ptm-images/water/water-1.jpg
-title003,n,n,y,n,n,/ptm-images/water/water-2.jpg,/ptm-images/water/water-2.jpg
-title004,n,n,y,n,n,/ptm-images/water/water-3.jpg,/ptm-images/water/water-3.jpg
-title005,n,n,y,n,n,/ptm-images/water/water-4.jpg,/ptm-images/water/water-4.jpg
-title006,n,n,y,n,n,/ptm-images/water/water-5.jpg,/ptm-images/water/water-5.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-6.jpg,/ptm-images/water/water-6.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-7.jpg,/ptm-images/water/water-7.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-8.jpg,/ptm-images/water/water-8.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-9.jpg,/ptm-images/water/water-9.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-10.jpg,/ptm-images/water/water-10.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-11.jpg,/ptm-images/water/water-11.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-12.jpg,/ptm-images/water/water-12.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-13.jpg,/ptm-images/water/water-13.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-14.jpg,/ptm-images/water/water-14.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-15.jpg,/ptm-images/water/water-15.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-16.jpg,/ptm-images/water/water-16.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-17.jpg,/ptm-images/water/water-17.jpg
-title007,n,n,y,n,n,/ptm-images/water/water-18.jpg,/ptm-images/water/water-18.jpg
+title001,n,n,y,n,n,n,/ptm-images/water/water-0.jpg,/ptm-images/water/water-0.jpg
+title002,n,n,y,n,n,n,/ptm-images/water/water-1.jpg,/ptm-images/water/water-1.jpg
+title003,n,n,y,n,n,n,/ptm-images/water/water-2.jpg,/ptm-images/water/water-2.jpg
+title004,n,n,y,n,n,n,/ptm-images/water/water-3.jpg,/ptm-images/water/water-3.jpg
+title005,n,n,y,n,n,n,/ptm-images/water/water-4.jpg,/ptm-images/water/water-4.jpg
+title006,n,n,y,n,n,n,/ptm-images/water/water-5.jpg,/ptm-images/water/water-5.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-6.jpg,/ptm-images/water/water-6.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-7.jpg,/ptm-images/water/water-7.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-8.jpg,/ptm-images/water/water-8.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-9.jpg,/ptm-images/water/water-9.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-10.jpg,/ptm-images/water/water-10.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-11.jpg,/ptm-images/water/water-11.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-12.jpg,/ptm-images/water/water-12.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-13.jpg,/ptm-images/water/water-13.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-14.jpg,/ptm-images/water/water-14.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-15.jpg,/ptm-images/water/water-15.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-16.jpg,/ptm-images/water/water-16.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-17.jpg,/ptm-images/water/water-17.jpg
+title007,n,n,y,n,n,n,/ptm-images/water/water-18.jpg,/ptm-images/water/water-18.jpg
 
 # Portrait
-title001,n,n,n,y,n,/ptm-images/portrait/portrait-0.jpg,/ptm-images/portrait/portrait-0.jpg
-title002,n,n,n,y,n,/ptm-images/portrait/portrait-1.jpg,/ptm-images/portrait/portrait-1.jpg
-title003,n,n,n,y,n,/ptm-images/portrait/portrait-2.jpg,/ptm-images/portrait/portrait-2.jpg
-title004,n,n,n,y,n,/ptm-images/portrait/portrait-3.jpg,/ptm-images/portrait/portrait-3.jpg
-title005,n,n,n,y,n,/ptm-images/portrait/portrait-4.jpg,/ptm-images/portrait/portrait-4.jpg
-title006,n,n,n,y,n,/ptm-images/portrait/portrait-5.jpg,/ptm-images/portrait/portrait-5.jpg
-title007,n,n,n,y,n,/ptm-images/portrait/portrait-6.jpg,/ptm-images/portrait/portrait-6.jpg
-title007,n,n,n,y,n,/ptm-images/portrait/portrait-7.jpg,/ptm-images/portrait/portrait-7.jpg
+title001,n,n,n,y,n,n,/ptm-images/portrait/portrait-0.jpg,/ptm-images/portrait/portrait-0.jpg
+title002,n,n,n,y,n,n,/ptm-images/portrait/portrait-1.jpg,/ptm-images/portrait/portrait-1.jpg
+title003,n,n,n,y,n,n,/ptm-images/portrait/portrait-2.jpg,/ptm-images/portrait/portrait-2.jpg
+title004,n,n,n,y,n,n,/ptm-images/portrait/portrait-3.jpg,/ptm-images/portrait/portrait-3.jpg
+title005,n,n,n,y,n,n,/ptm-images/portrait/portrait-4.jpg,/ptm-images/portrait/portrait-4.jpg
+title006,n,n,n,y,n,n,/ptm-images/portrait/portrait-5.jpg,/ptm-images/portrait/portrait-5.jpg
+title007,n,n,n,y,n,n,/ptm-images/portrait/portrait-6.jpg,/ptm-images/portrait/portrait-6.jpg
+title007,n,n,n,y,n,n,/ptm-images/portrait/portrait-7.jpg,/ptm-images/portrait/portrait-7.jpg
 
 # Landscape
-title001,n,n,n,n,y,/ptm-images/landscape/landscape-0.jpg,/ptm-images/landscape/landscape-0.jpg
-title002,n,n,n,n,y,/ptm-images/landscape/landscape-1.jpg,/ptm-images/landscape/landscape-1.jpg
-title003,n,n,n,n,y,/ptm-images/landscape/landscape-2.jpg,/ptm-images/landscape/landscape-2.jpg
-title004,n,n,n,n,y,/ptm-images/landscape/landscape-3.jpg,/ptm-images/landscape/landscape-3.jpg
-title005,n,n,n,n,y,/ptm-images/landscape/landscape-4.jpg,/ptm-images/landscape/landscape-4.jpg
-title006,n,n,n,n,y,/ptm-images/landscape/landscape-5.jpg,/ptm-images/landscape/landscape-5.jpg
-title007,n,n,n,n,y,/ptm-images/landscape/landscape-6.jpg,/ptm-images/landscape/landscape-6.jpg
-title007,n,n,n,n,y,/ptm-images/landscape/landscape-7.jpg,/ptm-images/landscape/landscape-7.jpg
-title007,n,n,n,n,y,/ptm-images/landscape/landscape-8.jpg,/ptm-images/landscape/landscape-8.jpg
-title007,n,n,n,n,y,/ptm-images/landscape/landscape-9.jpg,/ptm-images/landscape/landscape-9.jpg
-title007,n,n,n,n,y,/ptm-images/landscape/landscape-10.jpg,/ptm-images/landscape/landscape-10.jpg
+title001,n,n,n,n,y,n,/ptm-images/landscape/landscape-0.jpg,/ptm-images/landscape/landscape-0.jpg
+title002,n,n,n,n,y,n,/ptm-images/landscape/landscape-1.jpg,/ptm-images/landscape/landscape-1.jpg
+title003,n,n,n,n,y,n,/ptm-images/landscape/landscape-2.jpg,/ptm-images/landscape/landscape-2.jpg
+title004,n,n,n,n,y,n,/ptm-images/landscape/landscape-3.jpg,/ptm-images/landscape/landscape-3.jpg
+title005,n,n,n,n,y,n,/ptm-images/landscape/landscape-4.jpg,/ptm-images/landscape/landscape-4.jpg
+title006,n,n,n,n,y,n,/ptm-images/landscape/landscape-5.jpg,/ptm-images/landscape/landscape-5.jpg
+title007,n,n,n,n,y,n,/ptm-images/landscape/landscape-6.jpg,/ptm-images/landscape/landscape-6.jpg
+title007,n,n,n,n,y,n,/ptm-images/landscape/landscape-7.jpg,/ptm-images/landscape/landscape-7.jpg
+title007,n,n,n,n,y,n,/ptm-images/landscape/landscape-8.jpg,/ptm-images/landscape/landscape-8.jpg
+title007,n,n,n,n,y,n,/ptm-images/landscape/landscape-9.jpg,/ptm-images/landscape/landscape-9.jpg
+title007,n,n,n,n,y,n,/ptm-images/landscape/landscape-10.jpg,/ptm-images/landscape/landscape-10.jpg
+
+# Misc
+title001,n,n,n,n,n,y,/ptm-images/misc/galeria-centro.jpg,/ptm-images/misc/galeria-centro.jpg
+title001,n,n,n,n,n,y,/ptm-images/misc/noche-del-vino.jpg,/ptm-images/misc/noche-del-vino.jpg
+
+# How
