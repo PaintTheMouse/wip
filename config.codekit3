@@ -412,6 +412,12 @@
 		"oAP": "\/_site\/portrait.html",
 		"oF": 0
 		},
+	"\/_site\/posts.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/posts.html",
+		"oF": 0
+		},
 	"\/_site\/water.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -872,6 +878,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/portrait.html",
+		"oF": 0
+		},
+	"\/posts.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/posts.html",
 		"oF": 0
 		},
 	"\/ptm-images\/equine\/equine-0.JPG": {
