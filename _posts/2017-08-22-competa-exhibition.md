@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  “An Exhibition in Competa“
-date:   2016-07-03 00:10:45
+date:   2017-08-22 20:00:00
 image: /ptm-images/how/how-46.jpg
 topPosition: -50px;
 tags: Competa Spain
