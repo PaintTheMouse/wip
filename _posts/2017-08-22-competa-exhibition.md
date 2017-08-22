@@ -20,9 +20,9 @@ Well there you have it, my first blog.
 Here are a few more photos of it.
 
 
-![Competa2](/ptm-images/how/how-44.jpg){:class="vh-50-ns fl-ns mr3-ns"}
-![Competa3](/ptm-images/how/how-45.jpg){:class="vh-50-ns fl-ns mr3-ns"}
-![Competa4](/ptm-images/how/how-46.jpg){:class="vh-50-ns fl-ns mr3-ns"}
+![Competa2](/ptm-images/how/how-44.jpg)
+![Competa3](/ptm-images/how/how-45.jpg)
+![Competa4](/ptm-images/how/how-46.jpg)
 
 
 More soon 
