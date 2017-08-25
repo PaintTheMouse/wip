@@ -12,7 +12,7 @@ This time I was in the mountain town of Competa in the Axarquia region of southe
 
 I was also commissioned to do a large "ish" piece of work for a guy who was opening a new B&B in the town. It turned out that he was having his opening night at the end of the week and that he wanted the paintings to go in his lobby. 
 
-![Competa1](/ptm-images/how/how-43.jpg){:class="vh-50-ns fl-ns mr3-ns"}
+![Competa1](/ptm-images/how/how-43.jpg){:class="cf vh-50-ns fl-ns mr3-ns"}
 
 So I got a new canvas and was up at 6.30 in the morning for several mornings to get the work down in time for his opening night. We got it done in time and he was very happy with the end result. 
 
@@ -22,9 +22,9 @@ Well there you have it, my first blog.
 Here are a few more photos of it.
 
 
-![Competa2](/ptm-images/how/how-44.jpg){:class="vh-50-ns mr3-ns"}
-![Competa3](/ptm-images/how/how-45.jpg){:class="vh-50-ns mr3-ns"}
-![Competa4](/ptm-images/how/how-46.jpg){:class="vh-50-ns mr3-ns"}
+![Competa2](/ptm-images/how/how-44.jpg){:class="cf vh-50-ns center"}
+![Competa3](/ptm-images/how/how-45.jpg){:class="cf vh-50-ns center"}
+![Competa4](/ptm-images/how/how-46.jpg){:class="cf vh-50-ns center"}
 
 
 More soon.
