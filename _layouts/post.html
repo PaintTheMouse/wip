@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-<div class="container">
-    <h1 class="post-heading-title">{{ page.title }}</h1>
-    <h4 class="post-heading-date">{{ page.date | date: "%a %b %d %Y" }}</h4>
+<div class="container tc">
+    <h1 class="f-headline-ns fw2 mt4">{{ page.title }}</h1>
+    <h4 class="f5 f2-ns fw3 black-50">{{ page.date | date: "%a %b %d %Y" }}</h4>
 </div>
 
-<div class="parallax" style="background-image: url('{{page.image}}')">
+<div class="parallax" style="background-image: url('{{page.image}}');background-position: {{page.feature-offset}};">
     <!--<div class="container"><h1>{{ page.title }}</h1></div>-->
 </div>
 
 <section>
     <div class="container center">
-        <div class="mw8 center">
+        <div class="measure-wide f4-m f3-l center mt4">
             {{content}}
         </div>
     </div>
