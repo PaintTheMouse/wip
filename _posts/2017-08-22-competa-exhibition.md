@@ -20,11 +20,11 @@ Well there you have it, my first blog.
 Here are a few more photos of it.
 
 
-![Competa2](/ptm-images/how/how-44.jpg){:class="mw-50 mv2 fl"}
+![Competa2](/ptm-images/how/how-44.jpg){:class="mv2"}
 
-![Competa3](/ptm-images/how/how-45.jpg){:class="mw-50 mv2 fl"}
+![Competa3](/ptm-images/how/how-45.jpg){:class="mv2"}
 
-![Competa4](/ptm-images/how/how-46.jpg){:class="mw-50 mv2 fl"}
+![Competa4](/ptm-images/how/how-46.jpg){:class="mv2"}
 
 
 More soon.
