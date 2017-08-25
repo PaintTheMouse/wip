@@ -400,26 +400,6 @@
 		"oAP": "\/_site\/2017\/08\/22\/competa-exhibition.html",
 		"oF": 0
 		},
-	"\/_site\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/css\/tachyons.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/css\/tachyons-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_site\/equine.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -432,405 +412,17 @@
 		"oAP": "\/_site\/how.html",
 		"oF": 0
 		},
-	"\/_site\/images\/ico.ico\/android-icon-144x144.png": {
-		"ft": 32768,
-		"iS": 6263,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/android-icon-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/android-icon-192x192.png": {
-		"ft": 32768,
-		"iS": 9886,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/android-icon-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/android-icon-36x36.png": {
-		"ft": 32768,
-		"iS": 1606,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/android-icon-36x36.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/android-icon-48x48.png": {
-		"ft": 32768,
-		"iS": 1996,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/android-icon-48x48.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/android-icon-72x72.png": {
-		"ft": 32768,
-		"iS": 2821,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/android-icon-72x72.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/android-icon-96x96.png": {
-		"ft": 32768,
-		"iS": 3772,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/android-icon-96x96.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-114x114.png": {
-		"ft": 32768,
-		"iS": 4578,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-114x114.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-120x120.png": {
-		"ft": 32768,
-		"iS": 4876,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-120x120.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-144x144.png": {
-		"ft": 32768,
-		"iS": 6263,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-152x152.png": {
-		"ft": 32768,
-		"iS": 6826,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-152x152.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-180x180.png": {
-		"ft": 32768,
-		"iS": 8944,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-180x180.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-57x57.png": {
-		"ft": 32768,
-		"iS": 2310,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-57x57.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-60x60.png": {
-		"ft": 32768,
-		"iS": 2407,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-60x60.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-72x72.png": {
-		"ft": 32768,
-		"iS": 2821,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-72x72.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-76x76.png": {
-		"ft": 32768,
-		"iS": 2978,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-76x76.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 9387,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/apple-icon.png": {
-		"ft": 32768,
-		"iS": 9387,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/apple-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/browserconfig.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/images\/ico.ico\/browserconfig.xml",
-		"oF": 0
-		},
-	"\/_site\/images\/ico.ico\/favicon-16x16.png": {
-		"ft": 32768,
-		"iS": 1001,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/favicon-16x16.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/favicon-32x32.png": {
-		"ft": 32768,
-		"iS": 1467,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/favicon-96x96.png": {
-		"ft": 32768,
-		"iS": 3772,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/favicon-96x96.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/images\/ico.ico\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/images\/ico.ico\/manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/_site\/images\/ico.ico\/manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/images\/ico.ico\/ms-icon-144x144.png": {
-		"ft": 32768,
-		"iS": 6263,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/ms-icon-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/ms-icon-150x150.png": {
-		"ft": 32768,
-		"iS": 6721,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/ms-icon-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/ms-icon-310x310.png": {
-		"ft": 32768,
-		"iS": 21507,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/ms-icon-310x310.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/ico.ico\/ms-icon-70x70.png": {
-		"ft": 32768,
-		"iS": 2725,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ico.ico\/ms-icon-70x70.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/logo\/mouse_black.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/logo\/mouse_black.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/logo\/mouse_white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/logo\/mouse_white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/logo\/test_2lines.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/logo\/test_2lines.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/logo\/text_1line.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/logo\/text_1line.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/logo\/text_1line_white.png": {
-		"ft": 32768,
-		"iS": 37228,
-		"oA": 0,
-		"oAP": "\/_site\/images\/logo\/text_1line_white.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/images\/logo\/text_1line_white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/logo\/text_1line_white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/logo\/text_2lines_white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/images\/logo\/text_2lines_white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/images\/ray.jpg": {
-		"ft": 16384,
-		"iS": 95095,
-		"oA": 0,
-		"oAP": "\/_site\/images\/ray.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
-	"\/_site\/js\/material-photo-gallery.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/js\/material-photo-gallery.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/_site\/landscape.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/landscape.html",
 		"oF": 0
-		},
-	"\/_site\/main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/main.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"\/_site\/misc.html": {
 		"ft": 8192,
@@ -849,1036 +441,6 @@
 		"oA": 2,
 		"oAP": "\/_site\/posts.html",
 		"oF": 0
-		},
-	"\/_site\/ptm-images\/equine\/equine-0.jpg": {
-		"ft": 16384,
-		"iS": 85519,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-0.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-1.jpg": {
-		"ft": 16384,
-		"iS": 650831,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-10.jpg": {
-		"ft": 16384,
-		"iS": 567252,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-11.jpg": {
-		"ft": 16384,
-		"iS": 353717,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-12.jpg": {
-		"ft": 16384,
-		"iS": 1125546,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-13.jpg": {
-		"ft": 16384,
-		"iS": 825063,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-14.jpg": {
-		"ft": 16384,
-		"iS": 807191,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-15.jpg": {
-		"ft": 16384,
-		"iS": 912705,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-15.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-2.jpg": {
-		"ft": 16384,
-		"iS": 637585,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-3.jpg": {
-		"ft": 16384,
-		"iS": 100832,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-4.jpg": {
-		"ft": 16384,
-		"iS": 116473,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-5.jpg": {
-		"ft": 16384,
-		"iS": 422587,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-6.jpg": {
-		"ft": 16384,
-		"iS": 751555,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-7.jpg": {
-		"ft": 16384,
-		"iS": 438450,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-8.jpg": {
-		"ft": 16384,
-		"iS": 770035,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/equine\/equine-9.jpg": {
-		"ft": 16384,
-		"iS": 585524,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/equine\/equine-9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-0.jpg": {
-		"ft": 16384,
-		"iS": 652860,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-0.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-1.jpg": {
-		"ft": 16384,
-		"iS": 1659387,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-10.jpg": {
-		"ft": 16384,
-		"iS": 1005422,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-11.jpg": {
-		"ft": 16384,
-		"iS": 653727,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-12.jpg": {
-		"ft": 16384,
-		"iS": 1080522,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-13.jpg": {
-		"ft": 16384,
-		"iS": 697546,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-14.jpg": {
-		"ft": 16384,
-		"iS": 124287,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-15.jpg": {
-		"ft": 16384,
-		"iS": 1575786,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-15.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-16.jpg": {
-		"ft": 16384,
-		"iS": 1483153,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-16.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-17.jpg": {
-		"ft": 16384,
-		"iS": 829878,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-17.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-18.jpg": {
-		"ft": 16384,
-		"iS": 575089,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-18.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-19.jpg": {
-		"ft": 16384,
-		"iS": 497243,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-19.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-2.jpg": {
-		"ft": 16384,
-		"iS": 545692,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-20.jpg": {
-		"ft": 16384,
-		"iS": 1396186,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-20.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-21.jpg": {
-		"ft": 16384,
-		"iS": 517214,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-21.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-22.jpg": {
-		"ft": 16384,
-		"iS": 1197626,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-22.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-23.jpg": {
-		"ft": 16384,
-		"iS": 426858,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-23.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-24.jpg": {
-		"ft": 16384,
-		"iS": 1382156,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-24.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-25.jpg": {
-		"ft": 16384,
-		"iS": 975362,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-25.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-26.jpg": {
-		"ft": 16384,
-		"iS": 905964,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-26.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-27.jpg": {
-		"ft": 16384,
-		"iS": 980938,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-27.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-28.jpg": {
-		"ft": 16384,
-		"iS": 662369,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-28.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-29.jpg": {
-		"ft": 16384,
-		"iS": 1590753,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-29.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-3.jpg": {
-		"ft": 16384,
-		"iS": 691643,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-30.jpg": {
-		"ft": 16384,
-		"iS": 712537,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-30.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-31.jpg": {
-		"ft": 16384,
-		"iS": 1056412,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-31.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-32.jpg": {
-		"ft": 16384,
-		"iS": 687259,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-32.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-33.jpg": {
-		"ft": 16384,
-		"iS": 1184661,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-33.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-34.jpg": {
-		"ft": 16384,
-		"iS": 325972,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-34.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-35.jpg": {
-		"ft": 16384,
-		"iS": 1483418,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-35.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-36.jpg": {
-		"ft": 16384,
-		"iS": 658243,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-36.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-37.jpg": {
-		"ft": 16384,
-		"iS": 1655408,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-37.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-38.jpg": {
-		"ft": 16384,
-		"iS": 1044784,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-38.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-39.jpg": {
-		"ft": 16384,
-		"iS": 1143441,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-39.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-4.jpg": {
-		"ft": 16384,
-		"iS": 446941,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-40.jpg": {
-		"ft": 16384,
-		"iS": 1079542,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-40.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-41.jpg": {
-		"ft": 16384,
-		"iS": 604854,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-41.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-42.jpg": {
-		"ft": 16384,
-		"iS": 985706,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-42.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-43.jpg": {
-		"ft": 16384,
-		"iS": 941815,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-43.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-44.jpg": {
-		"ft": 16384,
-		"iS": 993552,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-44.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-45.jpg": {
-		"ft": 16384,
-		"iS": 1050759,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-45.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-46.jpg": {
-		"ft": 16384,
-		"iS": 206910,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-46.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-5.jpg": {
-		"ft": 16384,
-		"iS": 653265,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-6.jpg": {
-		"ft": 16384,
-		"iS": 602260,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-7.jpg": {
-		"ft": 16384,
-		"iS": 1163406,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-8.jpg": {
-		"ft": 16384,
-		"iS": 1007944,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/how\/how-9.jpg": {
-		"ft": 16384,
-		"iS": 1358515,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/how\/how-9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-0.jpg": {
-		"ft": 16384,
-		"iS": 949589,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-0.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-1.jpg": {
-		"ft": 16384,
-		"iS": 533228,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-10.jpg": {
-		"ft": 16384,
-		"iS": 441408,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-2.jpg": {
-		"ft": 16384,
-		"iS": 568790,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-3.jpg": {
-		"ft": 16384,
-		"iS": 124287,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-4.jpg": {
-		"ft": 16384,
-		"iS": 486881,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-5.jpg": {
-		"ft": 16384,
-		"iS": 441985,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-6.jpg": {
-		"ft": 16384,
-		"iS": 513004,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-7.jpg": {
-		"ft": 16384,
-		"iS": 722176,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-8.jpg": {
-		"ft": 16384,
-		"iS": 575898,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/landscape\/landscape-9.jpg": {
-		"ft": 16384,
-		"iS": 475588,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/landscape\/landscape-9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/misc\/galeria-centro.jpg": {
-		"ft": 16384,
-		"iS": 205365,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/misc\/galeria-centro.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/misc\/noche-del-vino.jpg": {
-		"ft": 16384,
-		"iS": 64450,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/misc\/noche-del-vino.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-0.jpg": {
-		"ft": 16384,
-		"iS": 93338,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-0.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-1.jpg": {
-		"ft": 16384,
-		"iS": 103192,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-2.jpg": {
-		"ft": 16384,
-		"iS": 138537,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-3.jpg": {
-		"ft": 16384,
-		"iS": 514054,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-4.jpg": {
-		"ft": 16384,
-		"iS": 66035,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-5.jpg": {
-		"ft": 16384,
-		"iS": 189239,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-6.jpg": {
-		"ft": 16384,
-		"iS": 66035,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/portrait\/portrait-7.jpg": {
-		"ft": 16384,
-		"iS": 288595,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/portrait\/portrait-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-0.jpg": {
-		"ft": 16384,
-		"iS": 106534,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-0.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-1.jpg": {
-		"ft": 16384,
-		"iS": 100601,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-10.jpg": {
-		"ft": 16384,
-		"iS": 320780,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-11.jpg": {
-		"ft": 16384,
-		"iS": 652437,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-12.jpg": {
-		"ft": 16384,
-		"iS": 1153546,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-13.jpg": {
-		"ft": 16384,
-		"iS": 759146,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-14.jpg": {
-		"ft": 16384,
-		"iS": 1018821,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-15.jpg": {
-		"ft": 16384,
-		"iS": 202830,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-15.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-16.jpg": {
-		"ft": 16384,
-		"iS": 506747,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-16.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-17.jpg": {
-		"ft": 16384,
-		"iS": 161259,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-17.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-18.jpg": {
-		"ft": 16384,
-		"iS": 249417,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-18.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-2.jpg": {
-		"ft": 16384,
-		"iS": 475062,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-3.jpg": {
-		"ft": 16384,
-		"iS": 323456,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-4.jpg": {
-		"ft": 16384,
-		"iS": 699173,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-5.jpg": {
-		"ft": 16384,
-		"iS": 669272,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-6.jpg": {
-		"ft": 16384,
-		"iS": 131300,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-7.jpg": {
-		"ft": 16384,
-		"iS": 695971,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-8.jpg": {
-		"ft": 16384,
-		"iS": 388724,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/ptm-images\/water\/water-9.jpg": {
-		"ft": 16384,
-		"iS": 521923,
-		"oA": 0,
-		"oAP": "\/_site\/ptm-images\/water\/water-9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/_site\/water.html": {
 		"ft": 8192,
@@ -2348,7 +910,7 @@
 		"oAP": "\/posts.html",
 		"oF": 0
 		},
-	"\/ptm-images\/equine\/equine-0.jpg": {
+	"\/ptm-images\/equine\/equine-0.JPG": {
 		"ft": 16384,
 		"iS": 113778,
 		"oA": 0,
@@ -2358,7 +920,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-1.jpg": {
+	"\/ptm-images\/equine\/equine-1.JPG": {
 		"ft": 16384,
 		"iS": 663216,
 		"oA": 0,
@@ -2368,7 +930,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-10.jpg": {
+	"\/ptm-images\/equine\/equine-10.JPG": {
 		"ft": 16384,
 		"iS": 578108,
 		"oA": 0,
@@ -2378,7 +940,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-11.jpg": {
+	"\/ptm-images\/equine\/equine-11.JPG": {
 		"ft": 16384,
 		"iS": 361869,
 		"oA": 0,
@@ -2388,7 +950,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-12.jpg": {
+	"\/ptm-images\/equine\/equine-12.JPG": {
 		"ft": 16384,
 		"iS": 1144184,
 		"oA": 0,
@@ -2398,7 +960,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-13.jpg": {
+	"\/ptm-images\/equine\/equine-13.JPG": {
 		"ft": 16384,
 		"iS": 838232,
 		"oA": 0,
@@ -2408,7 +970,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-14.jpg": {
+	"\/ptm-images\/equine\/equine-14.JPG": {
 		"ft": 16384,
 		"iS": 820462,
 		"oA": 0,
@@ -2418,7 +980,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-15.jpg": {
+	"\/ptm-images\/equine\/equine-15.JPG": {
 		"ft": 16384,
 		"iS": 926704,
 		"oA": 0,
@@ -2428,7 +990,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-2.jpg": {
+	"\/ptm-images\/equine\/equine-2.JPG": {
 		"ft": 16384,
 		"iS": 649014,
 		"oA": 0,
@@ -2438,7 +1000,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-3.jpg": {
+	"\/ptm-images\/equine\/equine-3.JPG": {
 		"ft": 16384,
 		"iS": 136820,
 		"oA": 0,
@@ -2448,7 +1010,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-4.jpg": {
+	"\/ptm-images\/equine\/equine-4.JPG": {
 		"ft": 16384,
 		"iS": 157857,
 		"oA": 0,
@@ -2458,7 +1020,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-5.jpg": {
+	"\/ptm-images\/equine\/equine-5.JPG": {
 		"ft": 16384,
 		"iS": 431712,
 		"oA": 0,
@@ -2468,7 +1030,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-6.jpg": {
+	"\/ptm-images\/equine\/equine-6.JPG": {
 		"ft": 16384,
 		"iS": 764075,
 		"oA": 0,
@@ -2478,7 +1040,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-7.jpg": {
+	"\/ptm-images\/equine\/equine-7.JPG": {
 		"ft": 16384,
 		"iS": 446923,
 		"oA": 0,
@@ -2488,7 +1050,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-8.jpg": {
+	"\/ptm-images\/equine\/equine-8.JPG": {
 		"ft": 16384,
 		"iS": 782625,
 		"oA": 0,
@@ -2498,7 +1060,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/equine\/equine-9.jpg": {
+	"\/ptm-images\/equine\/equine-9.JPG": {
 		"ft": 16384,
 		"iS": 596836,
 		"oA": 0,
@@ -2508,7 +1070,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-0.jpg": {
+	"\/ptm-images\/how\/how-0.JPG": {
 		"ft": 16384,
 		"iS": 662117,
 		"oA": 0,
@@ -2518,7 +1080,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-1.jpg": {
+	"\/ptm-images\/how\/how-1.JPG": {
 		"ft": 16384,
 		"iS": 1696365,
 		"oA": 0,
@@ -2528,7 +1090,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-10.jpg": {
+	"\/ptm-images\/how\/how-10.JPG": {
 		"ft": 16384,
 		"iS": 1025562,
 		"oA": 0,
@@ -2538,7 +1100,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-11.jpg": {
+	"\/ptm-images\/how\/how-11.JPG": {
 		"ft": 16384,
 		"iS": 665620,
 		"oA": 0,
@@ -2548,7 +1110,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-12.jpg": {
+	"\/ptm-images\/how\/how-12.JPG": {
 		"ft": 16384,
 		"iS": 1098824,
 		"oA": 0,
@@ -2558,7 +1120,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-13.jpg": {
+	"\/ptm-images\/how\/how-13.JPG": {
 		"ft": 16384,
 		"iS": 707951,
 		"oA": 0,
@@ -2568,7 +1130,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-14.jpg": {
+	"\/ptm-images\/how\/how-14.JPG": {
 		"ft": 16384,
 		"iS": 166212,
 		"oA": 0,
@@ -2578,7 +1140,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-15.jpg": {
+	"\/ptm-images\/how\/how-15.JPG": {
 		"ft": 16384,
 		"iS": 1610161,
 		"oA": 0,
@@ -2588,7 +1150,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-16.jpg": {
+	"\/ptm-images\/how\/how-16.JPG": {
 		"ft": 16384,
 		"iS": 1517984,
 		"oA": 0,
@@ -2598,7 +1160,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-17.jpg": {
+	"\/ptm-images\/how\/how-17.JPG": {
 		"ft": 16384,
 		"iS": 846246,
 		"oA": 0,
@@ -2608,7 +1170,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-18.jpg": {
+	"\/ptm-images\/how\/how-18.JPG": {
 		"ft": 16384,
 		"iS": 585476,
 		"oA": 0,
@@ -2618,7 +1180,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-19.jpg": {
+	"\/ptm-images\/how\/how-19.JPG": {
 		"ft": 16384,
 		"iS": 508808,
 		"oA": 0,
@@ -2628,7 +1190,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-2.jpg": {
+	"\/ptm-images\/how\/how-2.JPG": {
 		"ft": 16384,
 		"iS": 555223,
 		"oA": 0,
@@ -2638,7 +1200,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-20.jpg": {
+	"\/ptm-images\/how\/how-20.JPG": {
 		"ft": 16384,
 		"iS": 1426430,
 		"oA": 0,
@@ -2648,7 +1210,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-21.jpg": {
+	"\/ptm-images\/how\/how-21.JPG": {
 		"ft": 16384,
 		"iS": 530302,
 		"oA": 0,
@@ -2658,7 +1220,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-22.jpg": {
+	"\/ptm-images\/how\/how-22.JPG": {
 		"ft": 16384,
 		"iS": 1216703,
 		"oA": 0,
@@ -2668,7 +1230,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-23.jpg": {
+	"\/ptm-images\/how\/how-23.JPG": {
 		"ft": 16384,
 		"iS": 437315,
 		"oA": 0,
@@ -2678,7 +1240,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-24.jpg": {
+	"\/ptm-images\/how\/how-24.JPG": {
 		"ft": 16384,
 		"iS": 1405578,
 		"oA": 0,
@@ -2688,7 +1250,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-25.jpg": {
+	"\/ptm-images\/how\/how-25.JPG": {
 		"ft": 16384,
 		"iS": 994213,
 		"oA": 0,
@@ -2698,7 +1260,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-26.jpg": {
+	"\/ptm-images\/how\/how-26.JPG": {
 		"ft": 16384,
 		"iS": 919395,
 		"oA": 0,
@@ -2708,7 +1270,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-27.jpg": {
+	"\/ptm-images\/how\/how-27.JPG": {
 		"ft": 16384,
 		"iS": 999261,
 		"oA": 0,
@@ -2718,7 +1280,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-28.jpg": {
+	"\/ptm-images\/how\/how-28.JPG": {
 		"ft": 16384,
 		"iS": 673248,
 		"oA": 0,
@@ -2728,7 +1290,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-29.jpg": {
+	"\/ptm-images\/how\/how-29.JPG": {
 		"ft": 16384,
 		"iS": 1619951,
 		"oA": 0,
@@ -2738,7 +1300,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-3.jpg": {
+	"\/ptm-images\/how\/how-3.JPG": {
 		"ft": 16384,
 		"iS": 702915,
 		"oA": 0,
@@ -2748,7 +1310,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-30.jpg": {
+	"\/ptm-images\/how\/how-30.JPG": {
 		"ft": 16384,
 		"iS": 722251,
 		"oA": 0,
@@ -2758,7 +1320,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-31.jpg": {
+	"\/ptm-images\/how\/how-31.JPG": {
 		"ft": 16384,
 		"iS": 1079422,
 		"oA": 0,
@@ -2768,7 +1330,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-32.jpg": {
+	"\/ptm-images\/how\/how-32.JPG": {
 		"ft": 16384,
 		"iS": 698028,
 		"oA": 0,
@@ -2778,7 +1340,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-33.jpg": {
+	"\/ptm-images\/how\/how-33.JPG": {
 		"ft": 16384,
 		"iS": 1209225,
 		"oA": 0,
@@ -2788,7 +1350,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-34.jpg": {
+	"\/ptm-images\/how\/how-34.JPG": {
 		"ft": 16384,
 		"iS": 339972,
 		"oA": 0,
@@ -2798,7 +1360,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-35.jpg": {
+	"\/ptm-images\/how\/how-35.JPG": {
 		"ft": 16384,
 		"iS": 1509286,
 		"oA": 0,
@@ -2808,7 +1370,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-36.jpg": {
+	"\/ptm-images\/how\/how-36.JPG": {
 		"ft": 16384,
 		"iS": 673127,
 		"oA": 0,
@@ -2818,7 +1380,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-37.jpg": {
+	"\/ptm-images\/how\/how-37.JPG": {
 		"ft": 16384,
 		"iS": 1685565,
 		"oA": 0,
@@ -2828,7 +1390,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-38.jpg": {
+	"\/ptm-images\/how\/how-38.JPG": {
 		"ft": 16384,
 		"iS": 1064802,
 		"oA": 0,
@@ -2838,7 +1400,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-39.jpg": {
+	"\/ptm-images\/how\/how-39.JPG": {
 		"ft": 16384,
 		"iS": 1161754,
 		"oA": 0,
@@ -2848,7 +1410,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-4.jpg": {
+	"\/ptm-images\/how\/how-4.JPG": {
 		"ft": 16384,
 		"iS": 457497,
 		"oA": 0,
@@ -2858,7 +1420,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-40.jpg": {
+	"\/ptm-images\/how\/how-40.JPG": {
 		"ft": 16384,
 		"iS": 1099393,
 		"oA": 0,
@@ -2868,7 +1430,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-41.jpg": {
+	"\/ptm-images\/how\/how-41.JPG": {
 		"ft": 16384,
 		"iS": 614301,
 		"oA": 0,
@@ -2878,7 +1440,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-42.jpg": {
+	"\/ptm-images\/how\/how-42.JPG": {
 		"ft": 16384,
 		"iS": 1004025,
 		"oA": 0,
@@ -2928,7 +1490,7 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-5.jpg": {
+	"\/ptm-images\/how\/how-5.JPG": {
 		"ft": 16384,
 		"iS": 662385,
 		"oA": 0,
@@ -2938,7 +1500,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-6.jpg": {
+	"\/ptm-images\/how\/how-6.JPG": {
 		"ft": 16384,
 		"iS": 617191,
 		"oA": 0,
@@ -2948,7 +1510,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-7.jpg": {
+	"\/ptm-images\/how\/how-7.JPG": {
 		"ft": 16384,
 		"iS": 1182379,
 		"oA": 0,
@@ -2958,7 +1520,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-8.jpg": {
+	"\/ptm-images\/how\/how-8.JPG": {
 		"ft": 16384,
 		"iS": 1027304,
 		"oA": 0,
@@ -2968,7 +1530,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/how\/how-9.jpg": {
+	"\/ptm-images\/how\/how-9.JPG": {
 		"ft": 16384,
 		"iS": 1380846,
 		"oA": 0,
@@ -3188,7 +1750,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-0.jpg": {
+	"\/ptm-images\/water\/water-0.JPG": {
 		"ft": 16384,
 		"iS": 142000,
 		"oA": 0,
@@ -3198,7 +1760,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-1.jpg": {
+	"\/ptm-images\/water\/water-1.JPG": {
 		"ft": 16384,
 		"iS": 129757,
 		"oA": 0,
@@ -3208,7 +1770,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-10.jpg": {
+	"\/ptm-images\/water\/water-10.JPG": {
 		"ft": 16384,
 		"iS": 328482,
 		"oA": 0,
@@ -3218,7 +1780,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-11.jpg": {
+	"\/ptm-images\/water\/water-11.JPG": {
 		"ft": 16384,
 		"iS": 661281,
 		"oA": 0,
@@ -3228,7 +1790,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-12.jpg": {
+	"\/ptm-images\/water\/water-12.JPG": {
 		"ft": 16384,
 		"iS": 1184802,
 		"oA": 0,
@@ -3238,7 +1800,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-13.jpg": {
+	"\/ptm-images\/water\/water-13.JPG": {
 		"ft": 16384,
 		"iS": 769398,
 		"oA": 0,
@@ -3248,7 +1810,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-14.jpg": {
+	"\/ptm-images\/water\/water-14.JPG": {
 		"ft": 16384,
 		"iS": 1039303,
 		"oA": 0,
@@ -3258,7 +1820,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-15.jpg": {
+	"\/ptm-images\/water\/water-15.JPG": {
 		"ft": 16384,
 		"iS": 264791,
 		"oA": 0,
@@ -3268,7 +1830,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-16.jpg": {
+	"\/ptm-images\/water\/water-16.JPG": {
 		"ft": 16384,
 		"iS": 515143,
 		"oA": 0,
@@ -3278,7 +1840,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-17.jpg": {
+	"\/ptm-images\/water\/water-17.JPG": {
 		"ft": 16384,
 		"iS": 206783,
 		"oA": 0,
@@ -3288,7 +1850,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-18.jpg": {
+	"\/ptm-images\/water\/water-18.JPG": {
 		"ft": 16384,
 		"iS": 261061,
 		"oA": 0,
@@ -3298,7 +1860,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-2.jpg": {
+	"\/ptm-images\/water\/water-2.JPG": {
 		"ft": 16384,
 		"iS": 483153,
 		"oA": 0,
@@ -3308,7 +1870,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-3.jpg": {
+	"\/ptm-images\/water\/water-3.JPG": {
 		"ft": 16384,
 		"iS": 334713,
 		"oA": 0,
@@ -3318,7 +1880,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-4.jpg": {
+	"\/ptm-images\/water\/water-4.JPG": {
 		"ft": 16384,
 		"iS": 712858,
 		"oA": 0,
@@ -3328,7 +1890,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-5.jpg": {
+	"\/ptm-images\/water\/water-5.JPG": {
 		"ft": 16384,
 		"iS": 681227,
 		"oA": 0,
@@ -3338,7 +1900,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-6.jpg": {
+	"\/ptm-images\/water\/water-6.JPG": {
 		"ft": 16384,
 		"iS": 140207,
 		"oA": 0,
@@ -3348,7 +1910,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-7.jpg": {
+	"\/ptm-images\/water\/water-7.JPG": {
 		"ft": 16384,
 		"iS": 707147,
 		"oA": 0,
@@ -3358,7 +1920,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-8.jpg": {
+	"\/ptm-images\/water\/water-8.JPG": {
 		"ft": 16384,
 		"iS": 397901,
 		"oA": 0,
@@ -3368,7 +1930,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-9.jpg": {
+	"\/ptm-images\/water\/water-9.JPG": {
 		"ft": 16384,
 		"iS": 534607,
 		"oA": 0,
