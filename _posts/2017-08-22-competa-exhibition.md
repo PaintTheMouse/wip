@@ -22,9 +22,11 @@ Well there you have it, my first blog.
 Here are a few more photos of it.
 
 
-![Competa2](/ptm-images/how/how-44.jpg){:class="cf vh-50-ns center"}
-![Competa3](/ptm-images/how/how-45.jpg){:class="cf vh-50-ns center"}
-![Competa4](/ptm-images/how/how-46.jpg){:class="cf vh-50-ns center"}
+![Competa2](/ptm-images/how/how-44.jpg){:class="cf vh-50-ns block center"}
+
+![Competa3](/ptm-images/how/how-45.jpg){:class="cf vh-50-ns block center"}
+
+![Competa4](/ptm-images/how/how-46.jpg){:class="cf vh-50-ns block center"}
 
 
 More soon.
