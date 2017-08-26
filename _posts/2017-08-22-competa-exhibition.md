@@ -9,6 +9,7 @@ tags: Competa Spain
 ---
 
 So, my first exhibition since 1995. That one was in Barking Essex and went very well, in fact it was a sell out as I recall. So here I am again only 22 years later doing another one.
+
 This time I was in the mountain town of Competa in the Axarquia region of southern Spain. The exhibition was in July and lasted 3 weeks, it went well and we sold about 20 pieces of work.
 
 ![Competa1](/ptm-images/misc/galeria-centro.jpg){:class="mv2"}
