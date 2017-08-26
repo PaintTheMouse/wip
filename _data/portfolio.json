@@ -1,0 +1,25 @@
+[{
+  "name": "Portrait",
+  "image": "/ptm-images/portrait/portrait-7.jpg",
+  "offset": "center"
+}, {
+  "name": "Equine",
+  "image": "/ptm-images/equine/equine-7.jpg",
+  "offset": "center"
+}, {
+  "name": "Water",
+  "image": "/ptm-images/water/water-17.jpg",
+  "offset": "center"
+}, {
+  "name": "Landscape",
+  "image": "/ptm-images/landscape/landscape-0.jpg",
+  "offset": "center"
+}, {
+  "name": "Miscellaneous",
+  "image": "/ptm-images/misc/galeria-centro.jpg",
+  "offset": "center"
+}, {
+  "name": "How I Paint",
+  "image": "/ptm-images/how/how-7.jpg",
+  "offset": "center"
+}]

@@ -8,10 +8,9 @@
         <a href="/" class="textLogo--sidebar">{{ site.title }}</a>
         <ul class="sidebar-recentPosts">
             <li>Portfolios:</li>
-            <li class="gallery-link"><a href="/portrait.html">Portrait Portfolio</a></li>
-            <li class="gallery-link"><a href="/equine.html">Equine Portfolio</a></li>
-            <li class="gallery-link"><a href="/water.html">Water Portfolio</a></li>
-            <li class="gallery-link"><a href="/landscape.html">Landscape Portfolio</a></li>
+            {% for portfolio in site.data.portfolio %}
+            <li class="gallery-link"><a href="/{{portfolio.name}}.html">{{portfolio.name}}</a></li>
+            {% endfor %}
         </ul>
         <ul class="sidebar-recentPosts">
             <li>Recent Posts:</li>

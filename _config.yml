@@ -4,13 +4,6 @@ baseurl_images: "/ptm-images/"
 #...
 title: Paint The Mouse
 banner_image: /ptm-images/water/water-7.jpg
-sold_image: /ptm-images/sold/sold-0.jpg
-portrait_image: /ptm-images/portrait/portrait-7.jpg
-equine_image: /ptm-images/equine/equine-7.jpg
-water_image: /ptm-images/water/water-17.jpg
-landscape_image: /ptm-images/landscape/landscape-0.jpg
-misc_image: /ptm-images/misc/galeria-centro.jpg
-how_image: /ptm-images/how/how-7.jpg
 author:
   name:           	 Ray Murphy
 # disqus_shortname: 'your-shortname' # ignore this if not using Disqus

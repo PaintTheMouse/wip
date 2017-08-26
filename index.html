@@ -1,97 +1,75 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 
-    <div id="banner" style="background-image: url('{{site.banner_image}}')">
-        <div class="container">
-            <img class="banner-title" src="/images/logo/text_1line_white.png" alt="">
-        </div>
+<div id="banner" style="background-image: url('{{site.banner_image}}')">
+    <div class="container">
+        <img class="banner-title" src="/images/logo/text_1line_white.png" alt="">
     </div>
+</div>
 
 
-    
-    <section id="posts">
-        <h1>Blog</h1>
-        <div class="container">
-            {% for post in site.posts limit:3 %}
-            <div class="card" style="background-image: url('{{post.image}}')">
-                <a href="{{ post.url }}"></a>
-                <div class="card-meta">
-                    <p class="card-title">{{ post.title }}</p>
-                    <p class="card-date">{{ post.date | date_to_string }}</p>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </section>
-    <section id="portfolio">
-        <h1>Portfolio</h1>
-        <div class="container">
-            <div class="portfolio-card" style="background-image: url('{{ site.portrait_image}}')">
-                <a href="portrait.html" class="portfolio-overlay">
-                    <h2>Portrait</h2>
-                </a>
-            </div>
-            <div class="portfolio-card" style="background-image: url('{{ site.equine_image}}')">
-                <a href="equine.html" class="portfolio-overlay">
-                    <h2>Equine</h2>
-                </a>
-            </div>
-            <div class="portfolio-card" style="background-image: url('{{ site.water_image}}')">
-                <a href="water.html" class="portfolio-overlay">
-                    <h2>Water</h2>
-                </a>
-            </div>
-            <div class="portfolio-card" style="background-image: url('{{ site.landscape_image}}')">
-                <a href="landscape.html" class="portfolio-overlay">
-                    <h2>Landscape</h2>
-                </a>
-            </div>
-            <div class="portfolio-card" style="background-image: url('{{ site.misc_image}}')">
-                <a href="misc.html" class="portfolio-overlay">
-                    <h2>Miscellaneous</h2>
-                </a>
-            </div>
-            <div class="portfolio-card" style="background-image: url('{{ site.how_image}}')">
-                <a href="how.html" class="portfolio-overlay">
-                    <h2>How I Work</h2>
-                </a>
+
+<section id="posts">
+        <h1 class="f-headline-ns fw2 mt4">Blog</h1>
+    <div class="container">
+        {% for post in site.posts limit:3 %}
+        <div class="card mt2" style="background-image: url('{{post.image}}');background-position: {{ post.offset }};">
+            <a href="{{ post.url }}"></a>
+            <div class="card-meta">
+                <p class="card-title">{{ post.title }}</p>
+                <p class="card-date">{{ post.date | date_to_string }}</p>
             </div>
         </div>
+        {% endfor %}
+    </div>
+    <a href="posts.html"><p class="tc fw2 f4 f3-ns black">More...</p></a>
+</section>
 
-    </section>
-    <section id="about">
-        <div class="container">
-            <h1>About</h1>
-            <div class="Media">
-                <div class="about-image"></div>
-                <div class="about-text">
-                    <p><strong>The curiosity and desire to paint began around the age of five and have self-taught to the present day.</strong>                        I am fascinated at how paint can create the illusion of three dimension, light and dark, warmth and
-                        cold. I am drawn to the way a picture can pull out emotion from the viewer and how you can return
-                        to a favourite picture many times and still get a sensation from it. </p>
-                    <p>I was first inspired by the impressionists’ paintings such as Sisley’s landscapes, the pastel sketches
-                        of Degas and the studies made en plein air by Sorrola. I admire the watercolours of Edward Seago
-                        and am constantly inspired by the work of Ken Howard. </p>
-                    <blockquote class="largeQuote">“A picture can pull out emotion from the viewer...” <br/>- Ray Murphy</blockquote>
-                    <p>I like my paintings to be a journey for the viewer, in order to achieve this, my paintings often show
-                        all of the stages from the beginning to the completed piece. I enjoy to paint all subjects, however
-                        have limited this to Equine and Water. My sold pieces show a wide variety of the work I do produce
-                        for my customers, along with the large number of pieces available in my home studio. </p>
-                    <p>
-                        I am producing the pieces shown on the website to sell and to be shown in galleries; but do accept commissions for any subject
-                        of work.</p>
-                    <p><script type="text/javascript">
+<section id="portfolio">
+        <h1 class="f-headline-ns fw2 mt4">Portfolio</h1>
+    <div class="container">
+        {% for portfolio in site.data.portfolio %}
+        <div class="portfolio-card" style="background-image: url('{{ portfolio.image }}');background-position: {{ portfolio.offset }};">
+            <a href="{{portfolio.name}}.html" class="portfolio-overlay">
+                <h2>{{ portfolio.name }}</h2>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section id="about">
+    <div class="container">
+            <h1 class="f-headline-ns fw2 mt4">About Me</h1>
+        <div class="Media">
+            <div class="about-image"></div>
+            <div class="about-text">
+                <p><strong>The curiosity and desire to paint began around the age of five and have self-taught to the present day.</strong>                    I am fascinated at how paint can create the illusion of three dimension, light and dark, warmth and cold.
+                    I am drawn to the way a picture can pull out emotion from the viewer and how you can return to a favourite
+                    picture many times and still get a sensation from it. </p>
+                <p>I was first inspired by the impressionists’ paintings such as Sisley’s landscapes, the pastel sketches of
+                    Degas and the studies made en plein air by Sorrola. I admire the watercolours of Edward Seago and am
+                    constantly inspired by the work of Ken Howard. </p>
+                <blockquote class="largeQuote">“A picture can pull out emotion from the viewer...” <br/>- Ray Murphy</blockquote>
+                <p>I like my paintings to be a journey for the viewer, in order to achieve this, my paintings often show all
+                    of the stages from the beginning to the completed piece. I enjoy to paint all subjects, however have
+                    limited this to Equine and Water. My sold pieces show a wide variety of the work I do produce for my
+                    customers, along with the large number of pieces available in my home studio. </p>
+                <p>
+                    I am producing the pieces shown on the website to sell and to be shown in galleries; but do accept commissions for any subject
+                    of work.</p>
+                <p>
+                    <script type="text/javascript">
                         var username = "raymurphy.618";
                         var hostname = "gmail.com";
                         var linktext = "Email Me";
-                        document.write('<a href=' + 'mail' + 'to:' + username + '@' + hostname + '?subject=PaintTheMouse%20Enquiry' + '>' + linktext + '</a>');
-                    </script></p>
-                </div>
+                        document.write('<a href=' + 'mail' + 'to:' + username + '@' + hostname +
+                            '?subject=PaintTheMouse%20Enquiry' + '>' + linktext + '</a>');
+                    </script>
+                </p>
             </div>
         </div>
-    </section>
-
-
-    
-
+    </div>
+</section>

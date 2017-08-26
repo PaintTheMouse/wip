@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="container tc">
-    <h1 class="f-headline-ns fw2 mt4">{{ page.title }}</h1>
-    <h4 class="f5 f2-ns fw3 black-50">{{ page.date | date: "%a %b %d %Y" }}</h4>
+    <h1 class="f1-m f-headline-l fw2 mt4">{{ page.title }}</h1>
+    <h4 class="f5 f3-m f2-l fw3 black-50">{{ page.date | date: "%a %b %d %Y" }}</h4>
 </div>
 
 <div class="parallax" style="background-image: url('{{page.image}}');background-position: {{page.feature-offset}};">
@@ -19,10 +19,16 @@ layout: default
 </section>
 
 {% if page.previous.url %}
+
 <div class="post-next" style="background-image: url('{{ page.previous.image }}')">
+        <div class="h-100 bg-black-40">
     <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}">
-                <h2>Next post:</h2>
-              <h1>{{page.previous.title}}</h1>
+
+                <h2 class="white-70">Next post:</h2>
+              <h1 class="white-70">{{page.previous.title}}</h1>
+
     </a>
 </div>
+</div>
+
 {% endif %}
