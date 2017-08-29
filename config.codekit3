@@ -434,12 +434,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/equine.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/equine.html",
-		"oF": 0
-		},
 	"\/Gemfile": {
 		"ft": 8192,
 		"oA": 2,
@@ -850,12 +844,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/landscape.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/landscape.html",
-		"oF": 0
-		},
 	"\/main.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -868,18 +856,6 @@
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/miscellaneous.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/miscellaneous.html",
-		"oF": 0
-		},
-	"\/portrait.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/portrait.html",
-		"oF": 0
 		},
 	"\/posts.html": {
 		"ft": 8192,
@@ -1946,12 +1922,6 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
-		},
-	"\/water.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/water.html",
-		"oF": 0
 		}
 	},
 "hooks": [
