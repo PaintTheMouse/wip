@@ -6,7 +6,7 @@ title: Paint The Mouse
 banner_image: /ptm-images/water/water-7.jpg
 author:
   name:           	 Ray Murphy
-# disqus_shortname: 'your-shortname' # ignore this if not using Disqus
+disqus_shortname: 'paintthemouse' # ignore this if not using Disqus
 # keep_files: []
 exclude: ["_app",
           "Gemfile",

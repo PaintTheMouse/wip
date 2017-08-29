@@ -41,6 +41,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_includes\/disqus.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/disqus.html",
+		"oF": 0
+		},
 	"\/_includes\/footer.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -360,10 +366,10 @@
 		"oAP": "\/_site\/2017\/08\/26\/colour-choice.html",
 		"oF": 0
 		},
-	"\/_site\/equine.html": {
+	"\/_site\/Equine.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/equine.html",
+		"oAP": "\/_site\/Equine.html",
 		"oF": 0
 		},
 	"\/_site\/How I Paint.html": {
@@ -378,22 +384,22 @@
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
-	"\/_site\/landscape.html": {
+	"\/_site\/Landscape.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/landscape.html",
+		"oAP": "\/_site\/Landscape.html",
 		"oF": 0
 		},
-	"\/_site\/miscellaneous.html": {
+	"\/_site\/Miscellaneous.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/miscellaneous.html",
+		"oAP": "\/_site\/Miscellaneous.html",
 		"oF": 0
 		},
-	"\/_site\/portrait.html": {
+	"\/_site\/Portrait.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/portrait.html",
+		"oAP": "\/_site\/Portrait.html",
 		"oF": 0
 		},
 	"\/_site\/posts.html": {
@@ -402,10 +408,10 @@
 		"oAP": "\/_site\/posts.html",
 		"oF": 0
 		},
-	"\/_site\/water.html": {
+	"\/_site\/Water.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/water.html",
+		"oAP": "\/_site\/Water.html",
 		"oF": 0
 		},
 	"\/css\/main.css": {

@@ -18,6 +18,8 @@ layout: default
     </div>
 </section>
 
+{% include disqus.html %}
+
 {% if page.previous.url %}
 
 <div class="post-next" style="background-image: url('{{ page.previous.image }}')">
@@ -32,3 +34,4 @@ layout: default
 </div>
 
 {% endif %}
+
