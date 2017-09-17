@@ -1,17 +1,16 @@
+--- 
+layout: default 
 ---
-layout: default
----
-<div class="container tc">
+<div class="tc">
     <h1 class="f1-m f-headline-l fw2 mt4">{{ page.title }}</h1>
     <h4 class="f5 f3-m f2-l fw3 black-50">{{ page.date | date: "%a %b %d %Y" }}</h4>
 </div>
 
-<div class="parallax" style="background-image: url('{{page.image}}');background-position: {{page.feature-offset}};">
-    <!--<div class="container"><h1>{{ page.title }}</h1></div>-->
+<div class="vh-25 vh-50-l cover" style="background-image: url('{{page.image}}');background-position: {{page.feature-offset}}; background-attachment: fixed;">
 </div>
 
 <section>
-    <div class="container center">
+    <div class="mw8 w-80  center">
         <div class="measure-wide f4-m f3-l center mt4">
             {{content}}
         </div>
@@ -19,21 +18,20 @@ layout: default
 </section>
 
 <div class="mw8 w-80 center pb4">
-{% include disqus.html %}
+    {% include disqus.html %}
 </div>
 
 {% if page.previous.url %}
 
 <div class="post-next" style="background-image: url('{{ page.previous.image }}')">
-        <div class="h-100 bg-black-40">
-    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}">
+    <div class="h-100 bg-black-40">
+        <a class="prev link" href="{{ page.previous.url | prepend: site.baseurl }}">
 
-                <h2 class="white-70">Next post:</h2>
-              <h1 class="white-70">{{page.previous.title}}</h1>
+            <h2 class="white-70">Next post:</h2>
+            <h1 class="white-70">{{page.previous.title}}</h1>
 
-    </a>
-</div>
+        </a>
+    </div>
 </div>
 
 {% endif %}
-

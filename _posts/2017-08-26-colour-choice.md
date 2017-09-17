@@ -21,4 +21,4 @@ Here are a few samples of the paintings done with the limited palette.
 
 ![noche1](/ptm-images/portrait/portrait-1.jpg){:class="mv2"}
 
-![noche2](/ptm-images/equine/equine-0.jpg){:class="mw-100 center mv2"}
+![noche2](/ptm-images/equine/equine-0.jpg){:class="mv2"}

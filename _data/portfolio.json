@@ -9,7 +9,7 @@
 }, {
   "name": "Water",
   "image": "/ptm-images/water/water-17.jpg",
-  "offset": "center"
+  "offset": "top center"
 }, {
   "name": "Landscape",
   "image": "/ptm-images/landscape/landscape-0.jpg",
@@ -19,7 +19,7 @@
   "image": "/ptm-images/misc/galeria-centro.jpg",
   "offset": "center"
 }, {
-  "name": "How I Paint",
+  "name": "How I Work",
   "image": "/ptm-images/how/how-7.jpg",
   "offset": "center"
 }]

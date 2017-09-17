@@ -1,9 +1,9 @@
-@import "bourbon";
-@import "neat";
-@import "_scss/normalize";
-@import "_scss/bitters/base";
-@import "_scss/material-photo-gallery";
-@import "_scss/sidebar";
+// @import "bourbon";
+// @import "neat";
+@import "_sass/normalize";
+// @import "_scss/bitters/base";
+@import "_sass/material-photo-gallery";
+@import "_sass/sidebar";
 
 $dark-gray: #222222;
 $sidebar-text-gray: #d3d3d3;
@@ -11,122 +11,122 @@ $sidebar-text-gray: #d3d3d3;
 $gutter: 20px;
 
 * {
-    box-sizing: border-box;
+    // box-sizing: border-box;
 }
 
 body {
-    margin: 0;
-    font-family: $font-stack-helvetica;
-    background-color: #f2f2f2;
-    color: $dark-gray;
+    // margin: 0;
+    // font-family: $font-stack-helvetica;
+    // background-color: #f2f2f2;
+    // color: $dark-gray;
 }
 .container {
-    @include grid-container;
-    width: 1440px;
-    max-width: 90%;
-    margin: 0 auto;
+    // @include grid-container;
+    // width: 1440px;
+    // max-width: 90%;
+    // margin: 0 auto;
 }
 section {
-    padding: 2em 0;
-    h1 {
-        text-align: center;
-        font-size: 3em;
-        color: $dark-gray;
-        font-weight: 200;
-    }
+    // padding: 2em 0;
+    // h1 {
+    //     text-align: center;
+    //     font-size: 3em;
+    //     color: $dark-gray;
+    //     font-weight: 200;
+    // }
 }
 #banner {
     // background-image: url('/ptm-images/water/water-7.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    // background-attachment: fixed;
-    height: 100vh;
-    position: relative;
-    text-align: center;
-    .banner-title {
-        padding: 0 30px;
-        width: 100%;
-        padding-top: 40vh;
-    }
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // // background-attachment: fixed;
+    // height: 100vh;
+    // position: relative;
+    // text-align: center;
+    // .banner-title {
+    //     padding: 0 30px;
+    //     width: 100%;
+    //     padding-top: 40vh;
+    // }
 }
 
 $card-layout-grid: (
-  columns: 1,
+//   columns: 1,
 );
 
 $card-layout-grid--tablet-up: (
-  columns: 12,
-  media: "(min-width: 768px)",
+//   columns: 12,
+//   media: "(min-width: 768px)",
 );
 
 #portfolio {
 
-    position: relative;
+    // position: relative;
 
 }
 #posts {
 
 }
-.card {
-    position: relative;
-    padding-top: 60%;    
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    margin-bottom: 1em;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-    &:hover {
-        box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
-    }
-    transition: all 0.5s ease;
-    @include grid-column(1, $card-layout-grid);
-    @include grid-media($card-layout-grid--tablet-up) {
-        @include grid-column(3);
-        padding-top: 30%;
+// .card {
+//     position: relative;
+//     padding-top: 60%;    
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     background-position: center center;
+//     margin-bottom: 1em;
+//     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+//     &:hover {
+//         box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
+//     }
+//     transition: all 0.5s ease;
+//     @include grid-column(1, $card-layout-grid);
+//     @include grid-media($card-layout-grid--tablet-up) {
+//         @include grid-column(3);
+//         padding-top: 30%;
    
-    }
-    &:nth-child(1) {
-        @include grid-media($card-layout-grid--tablet-up) {
-            @include grid-column(12);
-            padding-top: 40%;
-        }   
-    }
-    &:nth-child(2), &:nth-child(3) {
-        @include grid-media($card-layout-grid--tablet-up) {
-            @include grid-column(6);
-            padding-top: 30%;
-        }   
-    }
-    a {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        left: 0;
-    }
-    .card-meta {
-        position: absolute;
-        display: block;
-        width: 100%;
-        background-color: white;
-        bottom: 0;
-        // @include padding(10px null 10px 10px);
-        color: #ccc;
-        padding: 0.5em 1em;
-        p {
-            padding: 0;
-            margin: 0;
-        }
-        font-weight: 300;
-        .card-title {
-            font-size: 1.2em;
-            color: $dark-gray;
-        }
-        .card-date {
-            font-size: 0.8em;
-        }
-    }
-}
+//     }
+//     &:nth-child(1) {
+//         @include grid-media($card-layout-grid--tablet-up) {
+//             @include grid-column(12);
+//             padding-top: 40%;
+//         }   
+//     }
+//     &:nth-child(2), &:nth-child(3) {
+//         @include grid-media($card-layout-grid--tablet-up) {
+//             @include grid-column(6);
+//             padding-top: 30%;
+//         }   
+//     }
+//     a {
+//         position: absolute;
+//         width: 100%;
+//         height: 100%;
+//         top: 0;
+//         left: 0;
+//     }
+//     .card-meta {
+//         position: absolute;
+//         display: block;
+//         width: 100%;
+//         background-color: white;
+//         bottom: 0;
+//         // @include padding(10px null 10px 10px);
+//         color: #ccc;
+//         padding: 0.5em 1em;
+//         p {
+//             padding: 0;
+//             margin: 0;
+//         }
+//         font-weight: 300;
+//         .card-title {
+//             font-size: 1.2em;
+//             color: $dark-gray;
+//         }
+//         .card-date {
+//             font-size: 0.8em;
+//         }
+//     }
+// }
 
 #about {
     // padding: 2rem;
@@ -137,81 +137,81 @@ $card-layout-grid--tablet-up: (
 
 
 .about-image {
-    background-image: url('/images/ray.jpg');
-    background-repeat: no-repeat;
-    background-position: 10% 60%;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-    height: 500px;
-  @include grid-column(12);
-  margin-bottom: 1rem;
+//     background-image: url('/images/ray.jpg');
+//     background-repeat: no-repeat;
+//     background-position: 10% 60%;
+//     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+//     height: 500px;
+//   @include grid-column(12);
+//   margin-bottom: 1rem;
 
-  @media (min-width: 768px) {
-    @include grid-column(5);
+//   @media (min-width: 768px) {
+//     @include grid-column(5);
     
-  }
+//   }
 }
 
 .about-text {
     // font-family: $font-stack-georgia;
-    font-weight: 200;
-    @include grid-column(12);
-    @media (min-width: 768px) {
-    @include grid-column(7);
+//     font-weight: 200;
+//     @include grid-column(12);
+//     @media (min-width: 768px) {
+//     @include grid-column(7);
     
-  }
+//   }
 
 }
 
 .portfolio-card {
-    position: relative;
-    margin-bottom: 1rem;
-    padding-top: 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-    &:last-child {
-        margin-bottom: 0;
-    }
-    &:hover {
-        box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
-    }
-    @include grid-column(12);
-    @include grid-media($card-layout-grid--tablet-up) {
-        @include grid-column(4);
-        padding-top: 30%;
+    // position: relative;
+    // margin-bottom: 1rem;
+    // padding-top: 50%;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    // &:last-child {
+    //     margin-bottom: 0;
+    // }
+    // &:hover {
+    //     box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
+    // }
+    // @include grid-column(12);
+    // @include grid-media($card-layout-grid--tablet-up) {
+    //     @include grid-column(4);
+    //     padding-top: 30%;
    
-    }
-    .portfolio-overlay {
-        color: white;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        left: 0;
-        background: black;
-        opacity: 0;
-        transition: background-color 0.5s ease-in, opacity 0.5s ease-in;
-        h2 {
-            font-size: 2em;
-            position: relative;
-            float: left;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
+    // }
+    // .portfolio-overlay {
+    //     color: white;
+    //     position: absolute;
+    //     width: 100%;
+    //     height: 100%;
+    //     top: 0;
+    //     left: 0;
+    //     background: black;
+    //     opacity: 0;
+    //     transition: background-color 0.5s ease-in, opacity 0.5s ease-in;
+    //     h2 {
+    //         font-size: 2em;
+    //         position: relative;
+    //         float: left;
+    //         top: 50%;
+    //         left: 50%;
+    //         transform: translate(-50%, -50%);
             
-        }
-    }
-    &:hover .portfolio-overlay{
-        background-color: black;
-        opacity: 0.5;
-        transition: background-color 0.5s ease-in, opacity 0.5s ease-in; 
-    }
+    //     }
+    // }
+    // &:hover .portfolio-overlay{
+    //     background-color: black;
+    //     opacity: 0.5;
+    //     transition: background-color 0.5s ease-in, opacity 0.5s ease-in; 
+    // }
 }
 
 /* --- Typography --- */
 blockquote {
-  line-height: 1.5rem;
-  font-style: italic;
+//   line-height: 1.5rem;
+//   font-style: italic;
 //   padding-left: 25px;
 //   margin-left: -29px;
 //   border-left: 4px solid #222;
@@ -223,47 +223,47 @@ blockquote {
   }
 }
 blockquote.u--startsWithDoubleQuote {
-  text-indent: -0.40em;
+//   text-indent: -0.40em;
 }
 blockquote.largeQuote {
-  line-height: 1.4;
-  text-align: center;
-  font-size: 1.777rem;
-//   margin: 1.5rem -160px 0;
-  padding-left: 0;
-  border-left: 0;
+//   line-height: 1.4;
+//   text-align: center;
+//   font-size: 1.777rem;
+// //   margin: 1.5rem -160px 0;
+//   padding-left: 0;
+//   border-left: 0;
 }
 @media (max-width: 767px) {
-  blockquote.largeQuote {
-    margin: 1.5rem 0 0;
-    font-size: 1.333rem;
-    padding-left: 0;
-  }
+//   blockquote.largeQuote {
+//     margin: 1.5rem 0 0;
+//     font-size: 1.333rem;
+//     padding-left: 0;
+//   }
 }
 blockquote.largeQuote a {
-  background-position: 0 42px;
+//   background-position: 0 42px;
 }
 
 /* --- Posts --- */
 .parallax { 
-    height: 500px; 
-    text-align: center;
-    background-attachment: fixed;
-    // background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    h1 {
-        color: white;
-        margin-top: 250px;
-    }
+    // height: 500px; 
+    // text-align: center;
+    // background-attachment: fixed;
+    // // background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // h1 {
+    //     color: white;
+    //     margin-top: 250px;
+    // }
 }
 @media only screen and (max-device-width: 768px) {
-    .parallax, #banner {
-        background-attachment: scroll;
-    }
-    .container {
-        max-width: 90%;
-    }
+    // .parallax, #banner {
+    //     background-attachment: scroll;
+    // }
+    // .container {
+    //     max-width: 90%;
+    // }
     
 }
 .post-column {
@@ -356,20 +356,20 @@ blockquote.largeQuote a {
 }
 
 .post-heading-title {
-    margin-top: 100px;
-    text-align: center;
-    font-size: 3em;
-    color: $dark-gray;
-    font-weight: 200;
+    // margin-top: 100px;
+    // text-align: center;
+    // font-size: 3em;
+    // color: $dark-gray;
+    // font-weight: 200;
 }
 .post-heading-date {
-    text-align: center;
-    font-weight: 300;
-    color: #ccc;
+    // text-align: center;
+    // font-weight: 300;
+    // color: #ccc;
 }
 
 .m-p-g{
-    @include clearfix;
+    // @include clearfix;
 }
 
 .post-next {

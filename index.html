@@ -3,73 +3,87 @@ layout: default
 ---
 
 
-<div id="banner" style="background-image: url('{{site.banner_image}}')">
-    <div class="container">
-        <img class="banner-title" src="/images/logo/text_1line_white.png" alt="">
-    </div>
-</div>
-
+<article class="vh-50 vh-100-ns dt w-100 cover" style="background-image: url('{{site.banner_image}}')">
+        <div class="dtc v-mid tc white ph3 ph4-l">
+          <img class="banner-title w-90" src="/images/logo/text_1line_white.png" alt="">
+        </div>
+</article>
 
 
 <section id="posts">
-        <h1 class="f-headline-ns fw2 mt4">Blog</h1>
-    <div class="container">
-        {% for post in site.posts limit:3 %}
-        <div class="card mt2" style="background-image: url('{{post.image}}');background-position: {{ post.offset }};">
-            <a href="{{ post.url }}"></a>
-            <div class="card-meta">
-                <p class="card-title">{{ post.title }}</p>
-                <p class="card-date">{{ post.date | date_to_string }}</p>
-            </div>
-        </div>
-        {% endfor %}
+    <div class="w-90-l center cf ph3-ns ">
+        <h1 class="f2 f1-m f-headline-l fw2 mt4 tc">Blog</h1>
+
+        {% for post in site.posts limit:7 %} {% if forloop.index == 1 %}
+        <article class="fl w-100 pb3 ph3-ns mb3">
+            {% elsif forloop.index == 2 or forloop.index == 3 %}
+            <article class="fl w-100 w-50-ns pb3 ph3-ns mb3">
+                {% else %}
+                <article class="fl w-100 w-50-m w-25-l pb3 ph3-ns mb3">
+                    {% endif %}
+                    <a href="{{ post.url }}" class="link">
+                        <div class="shadow-4 shadow-hover">
+                            <div class="cover bg-center aspect-ratio aspect-ratio--16x9" style="background-image: url('{{ post.image}}');background-position: {{ post.offset }};"></div>
+                            <div class="pa3">
+                                <h3 class="f5 f3-l dark-gray ma0 fw3">{{ post.title }}</h3>
+                                <div class="f6 f5-l gray db pv2">{{ post.date | date_to_string }}</div>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+                <a class="link" href="posts.html">
+                    <p class="tc fw2 f4 f3-ns black">More...</p>
+                </a>
     </div>
-    <a href="posts.html"><p class="tc fw2 f4 f3-ns black">More...</p></a>
 </section>
+
+
 
 <section id="portfolio">
-        <h1 class="f-headline-ns fw2 mt4">Portfolio</h1>
-    <div class="container">
+    <div class="w-90-l center cf ph3-ns ">
+        <h1 class="f2 f1-m f-headline-l fw2 mt4 tc">Portfolio</h1>
         {% for portfolio in site.data.portfolio %}
-        <div class="portfolio-card" style="background-image: url('{{ portfolio.image }}');background-position: {{ portfolio.offset }};">
-            <a href="{{portfolio.name}}.html" class="portfolio-overlay">
-                <h2>{{ portfolio.name }}</h2>
+        <article class="center fl w-100 w-50-m w-33-l pb3 mb3 ph3-ns ">
+            <a href="{{portfolio.name}}.html" class="link">
+                <div class="shadow-4 shadow-hover">
+                    <div class="cover aspect-ratio aspect-ratio--1x1" style="background-image: url('{{ portfolio.image }}');background-position: {{ portfolio.offset }};">
+                        <div class="aspect-ratio--object dt hide-child">
+                            <div class="dtc v-mid child f3 bg-black-40 tc white ttu tracked">{{portfolio.name}}</div>
+                        </div>
+                    </div>
+                </div>
             </a>
-        </div>
+        </article>
         {% endfor %}
     </div>
 </section>
 
-<section id="about">
-    <div class="container">
-            <h1 class="f-headline-ns fw2 mt4">About Me</h1>
-        <div class="Media">
-            <div class="about-image"></div>
-            <div class="about-text">
-                <p><strong>The curiosity and desire to paint began around the age of five and have self-taught to the present day.</strong>                    I am fascinated at how paint can create the illusion of three dimension, light and dark, warmth and cold.
-                    I am drawn to the way a picture can pull out emotion from the viewer and how you can return to a favourite
-                    picture many times and still get a sensation from it. </p>
-                <p>I was first inspired by the impressionists’ paintings such as Sisley’s landscapes, the pastel sketches of
-                    Degas and the studies made en plein air by Sorrola. I admire the watercolours of Edward Seago and am
-                    constantly inspired by the work of Ken Howard. </p>
-                <blockquote class="largeQuote">“A picture can pull out emotion from the viewer...” <br/>- Ray Murphy</blockquote>
-                <p>I like my paintings to be a journey for the viewer, in order to achieve this, my paintings often show all
-                    of the stages from the beginning to the completed piece. I enjoy to paint all subjects, however have
-                    limited this to Equine and Water. My sold pieces show a wide variety of the work I do produce for my
-                    customers, along with the large number of pieces available in my home studio. </p>
-                <p>
-                    I am producing the pieces shown on the website to sell and to be shown in galleries; but do accept commissions for any subject
-                    of work.</p>
-                <p>
+<section class="about">
+    <div class="w-90-l center cf ph3-ns mb4">
+            <h1 class="f2 f1-m f-headline-l fw2 mt4 tc">About</h1>
+        <div class="flex items-top flex-wrap">
+            <article class="w-100 w-50-l ph3-ns pv2">
+                <div class="db aspect-ratio aspect-ratio--4x3">
+                    <div role="img" aria-label="Ray Murphy" style="background-image:url(images/ray.jpg);" class="bg-center cover aspect-ratio--object"></div>
+                </div>
+            </article>
+            <article class="w-100 w-50-l ph3-ns pa4 pa2-ns">
+                <div class="center measure measure-wide-ns f4 f3-l">
+                    <p>I am a self-taught artist.</p>
+                    <p>I paint in all mediums including watercolour, acrylic and ink pen but I have always been particularly
+                        interested in oil paints.</p>
+                    <p>I enjoy painting a wide range of subjects from portraits to city scenes and seascapes to equine.</p>
+                    <p>Some of my favourite artists that inspire me are Ken Howard, Edward Seago, Degas, Sorolla and Tom Roberts.</p>
                     <script type="text/javascript">
                         var username = "raymurphy.618";
                         var hostname = "gmail.com";
                         var linktext = "Email Me";
-                        document.write('<a href=' + 'mail' + 'to:' + username + '@' + hostname +
+                        document.write('<a class="pointer link light-blue" href=' + 'mail' + 'to:' + username + '@' + hostname +
                             '?subject=PaintTheMouse%20Enquiry' + '>' + linktext + '</a>');
                     </script>
-                </p>
-            </div>
+                </div>
+            </article>
         </div>
     </div>
 </section>

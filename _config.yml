@@ -11,7 +11,9 @@ disqus_shortname: 'paintthemouse' # ignore this if not using Disqus
 exclude: ["_app",
           "Gemfile",
           "Gemfile.lock",
-          "config.codekit3"] # Don't forget that Jekyll automatically
+          "config.codekit3",
+          "_sass"] # Don't forget that Jekyll automatically
                           # excludes files with a dot prefix
 compress_html:
   blanklines: true
+github: [metadata]

@@ -3,8 +3,8 @@ layout: post
 title:  An Exhibition in C&oacute;mpeta
 date:   2017-08-22 20:00:00
 image: /ptm-images/misc/galeria-centro.jpg
-feature-offset: top left
-offset: top left
+feature-offset: bottom 
+offset: top center
 tags: Competa Spain
 ---
 
@@ -16,7 +16,7 @@ This time I was in the mountain town of Competa in the Axarquia region of southe
 
 ![Competa1](/ptm-images/misc/galeria-centro-rm-newspaper.jpg){:class="mv2"}
 
-I was also commissioned to do a large "ish" piece of work for a guy who was opening a new B&B in the town. It turned out that he was having his opening night at the end of the week and that he wanted the paintings to go in his lobby. 
+I was also commissioned to do a large "ish" piece of work for a guy who was opening a new B&B in the town. It turned out that he was having his opening night at the end of the week and that he wanted the paintings to go in his lobby.
 
 ![Competa1](/ptm-images/how/how-43.jpg){:class="mv2"}
 

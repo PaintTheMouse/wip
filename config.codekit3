@@ -41,6 +41,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/_includes\/analytics.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/analytics.html",
+		"oF": 0
+		},
 	"\/_includes\/disqus.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -179,7 +185,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_scss\/_breakpoints.scss": {
+	"\/_sass\/_breakpoints.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -187,12 +193,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/_breakpoints.css",
+		"oAP": "\/_sass\/_breakpoints.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/_normalize.scss": {
+	"\/_sass\/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -200,12 +206,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/_normalize.css",
+		"oAP": "\/_sass\/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/_sidebar.scss": {
+	"\/_sass\/_sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -213,12 +219,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/_sidebar.css",
+		"oAP": "\/_sass\/_sidebar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_base.scss": {
+	"\/_sass\/bitters\/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -226,12 +232,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_base.css",
+		"oAP": "\/_sass\/bitters\/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_buttons.scss": {
+	"\/_sass\/bitters\/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -239,12 +245,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_buttons.css",
+		"oAP": "\/_sass\/bitters\/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_forms.scss": {
+	"\/_sass\/bitters\/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -252,12 +258,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_forms.css",
+		"oAP": "\/_sass\/bitters\/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_layout.scss": {
+	"\/_sass\/bitters\/_layout.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -265,12 +271,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_layout.css",
+		"oAP": "\/_sass\/bitters\/_layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_lists.scss": {
+	"\/_sass\/bitters\/_lists.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -278,12 +284,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_lists.css",
+		"oAP": "\/_sass\/bitters\/_lists.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_media.scss": {
+	"\/_sass\/bitters\/_media.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -291,12 +297,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_media.css",
+		"oAP": "\/_sass\/bitters\/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_tables.scss": {
+	"\/_sass\/bitters\/_tables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -304,12 +310,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_tables.css",
+		"oAP": "\/_sass\/bitters\/_tables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_typography.scss": {
+	"\/_sass\/bitters\/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -317,12 +323,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_typography.css",
+		"oAP": "\/_sass\/bitters\/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/bitters\/_variables.scss": {
+	"\/_sass\/bitters\/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -330,12 +336,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/bitters\/_variables.css",
+		"oAP": "\/_sass\/bitters\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_scss\/material-photo-gallery.scss": {
+	"\/_sass\/material-photo-gallery.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -343,75 +349,91 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/_scss\/material-photo-gallery.css",
+		"oAP": "\/_sass\/material-photo-gallery.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
 	"\/_site\/2017\/08\/22\/competa-exhibition.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/2017\/08\/22\/competa-exhibition.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/2017\/08\/22\/noche-del-vino.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/2017\/08\/22\/noche-del-vino.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/2017\/08\/26\/colour-choice.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/2017\/08\/26\/colour-choice.html",
-		"oF": 0
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/style-min.css",
+		"oF": 1,
+		"oS": 3
 		},
 	"\/_site\/Equine.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/Equine.html",
-		"oF": 0
+		"oF": 1
 		},
-	"\/_site\/How I Paint.html": {
+	"\/_site\/How I Work.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/How I Paint.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/_site\/How I Work.html",
+		"oF": 1
 		},
 	"\/_site\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/Landscape.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/Landscape.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/Miscellaneous.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/Miscellaneous.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/Portrait.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/Portrait.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/posts.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/posts.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/Water.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/Water.html",
+		"oF": 1
+		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
 		"oF": 0
 		},
 	"\/css\/main.css": {
@@ -434,6 +456,12 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/Equine.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Equine.html",
+		"oF": 0
+		},
 	"\/Gemfile": {
 		"ft": 8192,
 		"oA": 2,
@@ -446,10 +474,10 @@
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
-	"\/How I Paint.html": {
+	"\/How I Work.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/How I Paint.html",
+		"oAP": "\/How I Work.html",
 		"oF": 0
 		},
 	"\/images\/ico.ico\/android-icon-144x144.png": {
@@ -844,6 +872,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/Landscape.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Landscape.html",
+		"oF": 0
+		},
 	"\/main.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -856,6 +890,18 @@
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/Miscellaneous.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Miscellaneous.html",
+		"oF": 0
+		},
+	"\/Portrait.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Portrait.html",
+		"oF": 0
 		},
 	"\/posts.html": {
 		"ft": 8192,
@@ -1823,7 +1869,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/ptm-images\/water\/water-17.JPG": {
+	"\/ptm-images\/water\/water-17.jpg": {
 		"ft": 16384,
 		"iS": 206783,
 		"oA": 0,
@@ -1922,6 +1968,12 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"\/Water.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Water.html",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -1930,7 +1982,7 @@
 		"name": "Hook #1",
 		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF1wYWludHRoZW1vdXNl0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE\/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG\/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQJ\/AoQCoAKkAq0CuALAAs8C0QLTAtgC8AL0AwoDDwMnAysDNwM8Az8DRANaA14DcANzA3gAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADeg==",
 		"runOrder": 0,
-		"scriptSourceString": "bundle exec jekyll build --config _config.yml,_app\/localhost_config.yml",
+		"scriptSourceString": "export LC_ALL=\"en_US.UTF-8\"\nexport LANG=\"en_US.UTF-8\"\nJEKYLL_GITHUB_TOKEN=5aea59800a7062b41340576380238cde9eb0df4e bundle exec jekyll build --config _config.yml,_app\/localhost_config.yml",
 		"scriptType": 1,
 		"uuidString": "32AE6161-DB1F-4FDE-A3E9-903632F75D6F"
 		}
