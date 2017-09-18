@@ -3,7 +3,7 @@ layout: post
 title:  An Exhibition in C&oacute;mpeta
 date:   2017-08-22 20:00:00
 image: /ptm-images/misc/galeria-centro.jpg
-feature-offset: bottom 
+feature-offset: center 
 offset: top center
 tags: Competa Spain
 ---
